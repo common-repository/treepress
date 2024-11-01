@@ -1,0 +1,1876 @@
+0 HEAD
+1 SOUR FTM
+2 VERS Family Tree Maker (18.0.0.95)
+2 NAME Family Tree Maker for Windows
+2 CORP The Generations Network
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT 84604
+3 PHON (801) 705-7000
+1 DEST FTM
+1 DATE 25 JAN 2019
+1 CHAR ANSI
+1 FILE C:\Users\Paul\Desktop\Gray.ged
+1 SUBM @SUBM@
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @SUBM@ SUBM
+0 @I00001@ INDI
+1 NAME Living /Gray/
+1 SEX M
+0 @I02956@ INDI
+1 NAME Lillian Catherine /\Beardsell/
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 SEX F
+1 BIRT
+2 DATE 18 AUG 1922
+2 PLAC London, Lewisham?
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 BAPM
+2 DATE 1922
+2 PLAC St.CATHERINES, Nunhead
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 BURI
+2 DATE 1998
+2 PLAC Crawley Crematorium, West Sussex, UK
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 CHR
+2 DATE 1922
+2 PLAC St Catherines, Nunhead
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 EVEN
+2 TYPE Address at Marriage
+2 DATE 25 JAN 1941
+2 PLAC 7a, Lauderdale Road, W.9.
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 DEAT
+2 DATE 23 FEB 1998
+2 PLAC UK, West Sussex, Crawley Hospital
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 NAME Lillian /Katherine\Beardsell/
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 BIRT
+2 DATE 18 AUG 1922
+2 PLAC 61, Waller Road, NEW CROSS
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: May 6, 2000
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+2 SOUR @S00015@
+1 DEAT
+2 DATE 23 FEB 1998
+2 PLAC CRAWLEY HOSPITAL, Sussex
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 BURI
+2 DATE 1998
+2 PLAC CRAWLEY CREMATORIUM
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 NOTE @H00435@
+1 FAMS @F00349@
+0 @I01611@ INDI
+1 NAME Unknown /\Burgess/
+1 SEX M
+1 FAMS @F00627@
+0 @I01607@ INDI
+1 NAME Daughter1 /\Clark/
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+1 SEX F
+1 FAMC @F00629@
+0 @I01606@ INDI
+1 NAME Unknown /\Clark/
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+1 SEX M
+1 FAMS @F00629@
+0 @I01605@ INDI
+1 NAME Living /\Copeman/
+1 SEX F
+0 @I00173@ INDI
+1 NAME Charles Cyril /\Dix/
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+2 SOUR @S00083@
+3 PAGE Susan Gray nee Dix
+3 DATA
+4 TEXT Source for middle name 'Gordon' - seems incorrect - other sources (eg.
+5 CONC Sidestrand Parish Church headstone)  give Cyril
+1 SEX M
+1 BIRT
+2 DATE 23 MAR 1897
+2 SOUR @S00113@
+3 PAGE Sidestrand Parish Register
+3 DATA
+4 TEXT Age given at burial in 1981 as 84
+2 SOUR @S00113@
+3 PAGE Memorial in Sidestrand PC
+1 BURI
+2 DATE 01 SEP 1981
+2 PLAC Nfk, Sidestrand Parish Church
+2 SOUR @S00113@
+3 PAGE Sidestrand Parish Register
+1 OCCU Roadman
+2 DATE 11 JAN 1940
+2 SOUR @S00113@
+3 PAGE Sidestrand Marriage Register
+3 DATA
+4 TEXT Marriage of Alfred Copeman & Joyce Dix 11 Jan 1941
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 18 DEC 1921
+2 PLAC Nfk, Suffield Park, Jubilee Tce 9
+2 SOUR @S00113@
+3 PAGE Sidestrand Baptism Register
+3 DATA
+4 TEXT Bapt of dau, Helen Dix
+1 DEAT
+2 DATE 26 AUG 1981
+2 PLAC Nfk, Sidestrand, Council Houses 1
+2 SOUR @S00113@
+3 PAGE Sidestrand Parish Register
+1 OCCU Baker
+2 DATE 18 DEC 1921
+2 SOUR @S00113@
+3 PAGE Sidestrand Baptism Register
+3 DATA
+4 TEXT Bapt of dau. Helen Dix
+1 OCCU Roadman
+2 DATE 19 JUL 1925
+2 SOUR @S00113@
+3 PAGE Sidestrand Baptism Register
+3 DATA
+4 TEXT Bapt of son Gordon Sidney Dix
+1 OCCU Roadman
+2 DATE 09 SEP 1928
+2 SOUR @S00113@
+3 PAGE Sidestrand Baptism Register
+3 DATA
+4 TEXT Baptism of son Donald Peter Cyril Dix
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 09 SEP 1921
+2 PLAC Nfk, Sidestrand, Council Houses 1
+2 SOUR @S00113@
+3 PAGE Sidestrand Baptism Register
+3 DATA
+4 TEXT Baptism of son Donald Peter Cyril Dix
+1 FAMS @F00027@
+0 @I01609@ INDI
+1 NAME Susan M /\Dix/
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+1 SEX F
+1 ADDR 33 Pigott Road / Wokingham, Berkshire RG40 1PZ / UK
+1 PHON 0118 978 7865
+1 FAMS @F00131@
+1 FAMC @F00628@
+0 @I00282@ INDI
+1 NAME Amelia Easter /\Gray/
+2 SOUR @S00113@
+3 PAGE Baptisms 1852-1902 - Northrepps
+3 DATA
+4 TEXT 28 June 1885
+1 SEX F
+1 BIRT
+2 DATE 05 APR 1885
+2 PLAC Nfk, Northrepps
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+2 SOUR @S00113@
+3 PAGE Baptisms 1852-1902 - Northrepps
+3 DATA
+4 TEXT Gives date of birth on baptism record dated 28 June 1885
+1 BAPM
+2 DATE 28 JUN 1885
+2 PLAC Nfk, Northrepps Parish Church
+2 SOUR @S00113@
+3 PAGE Baptisms 1852-1902 - Northrepps
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 06 APR 1891
+2 PLAC Norfolk, Northrepps, Hungry Hill
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+1 NAME Emelia E /\Gray/
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+1 FAMS @F00102@
+1 FAMC @F00230@
+0 @I00257@ INDI
+1 NAME Brian /\Gray/
+2 SOUR @S00083@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+1 SEX M
+1 FAMS @F00131@
+0 @I00281@ INDI
+1 NAME Eleanor Elizabeth /\Gray/
+2 SOUR @S00113@
+3 PAGE Baptisms 1852-1902 - Northrepps
+3 DATA
+4 TEXT Cited as child of John William and Elizabeth Bapt. 24/4/1891
+1 SEX F
+1 BIRT
+2 DATE 01 APR 1891
+2 PLAC Nfk, Northrepps
+2 SOUR @S00113@
+3 PAGE Baptisms 1852-1902 - Northrepps
+3 DATA
+4 TEXT Date given on Bapt. reference dated 23/4/1891
+1 BAPM
+2 DATE 23 APR 1891
+2 PLAC Nfk, Northrepps Parish Church
+2 SOUR @S00113@
+3 PAGE Baptisms 1852-1902 - Northrepps
+3 DATA
+4 TEXT Private baptism
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 06 APR 1891
+2 PLAC Norfolk, Northrepps, Hungry Hill
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+1 NAME Ellen E /\Gray/
+1 BIRT
+2 DATE 31 MAR 1891
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+3 DATA
+4 TEXT Cites her age as six days
+1 FAMC @F00230@
+0 @I01615@ INDI
+1 NAME Living /\Gray/
+1 SEX U
+0 @I01613@ INDI
+1 NAME Living /\Gray/
+1 SEX M
+0 @I00070@ INDI
+1 NAME Lillian Janette /\Gray/
+2 SOUR @S00011@
+3 PAGE Sidestrand Parish Church Records Page 46 Record No. 362
+1 SEX F
+1 BIRT
+2 DATE 23 OCT 1888
+2 PLAC UK, Norfolk, Northrepp
+2 SOUR @S00011@
+3 PAGE Sidestrand Parish Church Records Page 46 Record No. 362
+2 SOUR @S00047@
+3 PAGE RG13 1824 20 23
+3 DATA
+4 TEXT Gives POB as Northrepps
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 06 APR 1891
+2 PLAC Norfolk, Northrepps, Hungry Hill
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 31 MAR 1901
+2 PLAC Living with parents
+2 SOUR @S00047@
+3 PAGE RG13 1824 20 23
+1 FAMC @F00230@
+0 @I01612@ INDI
+1 NAME Living /\Gray/
+1 SEX M
+0 @I00069@ INDI
+1 NAME Violet Anna Elizabeth /\Gray/
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+1 SEX F
+1 BIRT
+2 DATE 14 FEB 1894
+2 PLAC UK, Norfolk, Northrepps
+2 SOUR @S00011@
+3 PAGE Sidestrand Parish Church Records
+2 SOUR @S00047@
+3 PAGE RG13 1824 20 23
+3 DATA
+4 TEXT Gives place as Northrepps
+2 SOUR @S00113@
+3 PAGE Memorial in Sidestrand Church
+1 BURI
+2 DATE 26 JUL 1960
+2 PLAC Nfk, Sidestrand Parish Church
+2 SOUR @S00113@
+3 PAGE Sidestrand Parish Register
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 31 MAR 1901
+2 PLAC Living with parents
+2 SOUR @S00047@
+3 PAGE RG13 1824 20 23
+1 DEAT
+2 DATE 24 JUL 1960
+2 PLAC Nfk, Sidestrand
+2 SOUR @S00113@
+3 PAGE Sidestrand Parish Register
+2 SOUR @S00113@
+3 PAGE Memorial in church
+2 CAUS Cancer
+1 _DCAUSE Cancer
+2 SOUR @S00083@
+3 PAGE Helen Dix - June 2003
+1 NAME Violet Anna Eliza /\Gray/
+2 SOUR @S00011@
+3 PAGE Sidestrand Parish Church Records
+3 DATA
+4 TEXT Cites Violet Anna Eliza as the daughter of John WIlliam and Betsy
+5 CONC Elizabeth Gray Northrepps Labourer - I'm assumung Betsy is a
+5 CONC derivation of Elizabeth so making it likely that this is my family
+1 DEAT
+2 DATE 1959
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 09 SEP 1921
+2 PLAC Nfk, Sidestrand, Council Houses 1
+2 SOUR @S00113@
+3 PAGE Sidestrand Baptism Register
+3 DATA
+4 TEXT Baptism of son Donald Peter Cyril Dix
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 21 DEC 1921
+2 PLAC Nfk, Suffield Park, Jubilee Tce 9
+2 SOUR @S00113@
+3 PAGE Sidestrand Baptism Register
+3 DATA
+4 TEXT Bapt of dau Helen Dix
+1 FAMS @F00027@
+1 FAMC @F00230@
+0 @I00222@ INDI
+1 NAME Alfonso /\Unknown/
+2 SOUR @S00083@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+1 SEX M
+1 BIRT
+2 PLAC French or poss Belgium?
+2 SOUR @S00083@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+1 FAMS @F00102@
+0 @I01614@ INDI
+1 NAME Unknown /\Unknown/
+1 SEX F
+1 FAMS @F00631@
+0 @I01608@ INDI
+1 NAME Unknown /\Unknown/
+1 SEX F
+1 BIRT
+2 PLAC Kent
+2 SOUR @S00083@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+1 FAMS @F00628@
+0 @I01616@ INDI
+1 NAME Unknown /\Unknown/
+2 SOUR @S00083@
+3 PAGE Susan Gray nee Dix
+1 SEX F
+1 FAMS @F00632@
+0 @I00602@ INDI
+1 NAME Living /\Wright/
+1 SEX F
+0 @I01130@ INDI
+1 NAME Arthur /Burgess\Gray/
+2 SOUR @S00015@
+2 SOUR @S00039@
+3 PAGE RG12 1510 F59 P7
+1 SEX M
+1 BIRT
+2 DATE 06 MAY 1883
+2 PLAC UK, Norfolk, Northrepps
+2 SOUR @S00113@
+3 PAGE Baptisms 1852-1902 - Northrepps
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+3 DATA
+4 TEXT Suggests DOB circa 1884
+2 SOUR @S00015@
+3 PAGE Certificate
+3 DATA
+4 TEXT Gives date as 6 May 1883
+1 BAPM
+2 DATE 17 JUN 1993
+2 PLAC Nfk, Northrepps Parish Church
+2 SOUR @S00113@
+3 PAGE Baptisms 1852-1902 - Northrepps
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 06 APR 1891
+2 PLAC Norfolk, Northrepps, Hungry Hill
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+1 NOTE @H00294@
+1 FAMC @F00230@
+0 @I01601@ INDI
+1 NAME Gordon Sidney /Dix/
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+2 SOUR @S00113@
+3 PAGE Sidestrand Baptism Register
+3 DATA
+4 TEXT Baptism, 19 July 1925 gives middle name Sidney
+1 SEX M
+1 BIRT
+2 DATE 07 JUN 1925
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+2 SOUR @S00113@
+3 PAGE Memorial in Church
+2 SOUR @S00113@
+3 PAGE Sidestrand Baptism Register
+3 DATA
+4 TEXT Gives DOB
+1 BAPM
+2 DATE 19 JUN 1925
+2 PLAC Nfk, Sidestrand Parish Church
+2 SOUR @S00113@
+3 PAGE Sidestrand Baptism Register
+1 DEAT
+2 DATE 04 JUN 1949
+2 SOUR @S00113@
+3 PAGE Memorial in Sidestrand Church
+1 FAMS @F00628@
+1 FAMC @F00027@
+0 @I00407@ INDI
+1 NAME Living /Dix/
+1 SEX F
+0 @I01603@ INDI
+1 NAME Living /Dix/
+1 SEX F
+0 @I01602@ INDI
+1 NAME Living /Dix/
+1 SEX M
+0 @I00377@ INDI
+1 NAME Ruth Maude /Elliott/
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1881
+2 PLAC Norfolk, Hockering
+2 SOUR @S00087@
+3 PAGE Research by Lesley Purcell - email dated 13-9-01
+1 BAPM
+2 DATE 24 APR 1881
+2 PLAC UK, Norfolk, North Tuddenham Parish Chucrh
+2 SOUR @S00087@
+3 PAGE Research by Lesley Purcell - email dated 13-9-01
+1 BURI
+2 DATE NOV 1941
+2 PLAC Paddington New Cemetary, Grave 298, Section D
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 OCCU Scholar
+2 DATE 06 APR 1891
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00045@
+3 PAGE RG12 1552 F75 P6
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 06 APR 1891
+2 PLAC Norfolk, Hockering, The Lake
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00045@
+3 PAGE RG12 1552 F75 P6
+1 DEAT
+2 DATE 29 SEP 1941
+2 PLAC London, Paddington, Saltram Crescent 41
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 CAUS Cancer
+1 _DCAUSE Cancer
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 BIRT
+2 DATE 23 JAN 1881
+2 PLAC UK, Norfolk, North Tuddenham
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00006@
+3 PAGE Dorothy Gresty's book
+3 DATA
+4 TEXT Gives dob of "Mrs Gray" (her mother!) as 23/1/1881
+2 SOUR @S00015@
+3 PAGE 23/1/1881
+1 OCCU Housemaid (Domestic)
+2 DATE 31 MAR 1901
+2 SOUR @S00047@
+3 PAGE RG13 Pce 35 Folio 35 Page 11
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 04 APR 1881
+2 PLAC Norfolk, North Tuddenhan, Low St
+2 SOUR @S00042@
+3 PAGE RG11 1977 F80 P5
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 31 MAR 1901
+2 PLAC London, South Kensington, Onslow Gardens 15
+2 SOUR @S00047@
+3 PAGE RG13 Pce 35 Folio 35 Page 11
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 16 JUN 1907
+2 PLAC ? Laut Street 53
+2 SOUR @S00098@
+1 NOTE @H00155@
+1 FAMS @F00119@
+0 @I00113@ INDI
+1 NAME Living /Gray/
+1 SEX M
+0 @I04264@ INDI
+1 NAME Alfie /Gray/
+1 SEX M
+1 BIRT
+2 DATE 2008
+2 PLAC Crawley
+1 DEAT
+2 DATE 07 JUL 2015
+2 PLAC Sharm el Shaik, Egypt
+2 SOUR @S00083@
+3 PAGE On Facebook and papers
+3 DATA
+4 TEXT Drowned in swimming pool while on holiday
+1 FAMC @F01305@
+0 @I01235@ INDI
+1 NAME Living /Gray/
+1 SEX F
+0 @I04265@ INDI
+1 NAME Child2 /Gray/
+1 SEX U
+1 FAMC @F01305@
+0 @I04266@ INDI
+1 NAME Child3 /Gray/
+1 SEX U
+1 FAMC @F01305@
+0 @I04267@ INDI
+1 NAME Child4 /Gray/
+1 SEX U
+1 FAMC @F01305@
+0 @I01233@ INDI
+1 NAME Living /Gray/
+1 SEX M
+0 @I00243@ INDI
+1 NAME Dorothy /Gray/
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 SEX F
+1 BIRT
+2 DATE 01 MAR 1913
+2 PLAC UK, London, Paddington?
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 DEAT
+2 DATE NOV 1999
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 BIRT
+2 DATE 1913
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: May 6, 2000
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 DEAT
+2 DATE 1999
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: May 6, 2000
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 NOTE @H00094@
+1 FAMS @F00120@
+1 FAMC @F00119@
+0 @I00697@ INDI
+1 NAME Edwin* Basil /Gray/
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 SEX M
+1 BIRT
+2 DATE 02 MAY 1911
+2 PLAC 21, King Street, CHELSEA, London
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 BURI
+2 DATE 10 JUL 1985
+2 PLAC Crawley Crematorium, West Sussex, UK
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 ALIA Eddie
+1 OCCU at marriage: Merchant Navy
+2 DATE 25 JAN 1941
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 RESI
+2 DATE 25 JAN 1941
+2 PLAC 68 Saltram Crescent, London, W9
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 EVEN
+2 TYPE Address at Marriage
+2 DATE 25 JAN 1941
+2 PLAC 68 Saltram Crescnt, W.9.
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 DEAT
+2 DATE 04 JUL 1985
+2 PLAC St.CATHRINE'S HOSPICE, Crawley
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 NAME Edwin Basil /GRAY/
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 BIRT
+2 DATE 02 MAY 1911
+2 PLAC 21 King St, Chelsea, London
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 DEAT
+2 DATE 04 JUL 1985
+2 PLAC UK, West Sussex, Crawley Malthouse Rd, St Catherines Hospice
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 OCCU Tailor
+2 PLAC Factory Worker
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 OCCU at marriage: Merchant Navy
+2 DATE 25 JAN 1941
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 OCCU Tailor
+2 DATE 25 JAN 1941
+2 PLAC Factory Worker
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 NOTE @H00271@
+1 FAMS @F00349@
+1 FAMC @F00119@
+0 @I00245@ INDI
+1 NAME Living /Gray/
+1 SEX M
+0 @I00242@ INDI
+1 NAME Frederick Herman /Gray/
+2 SOUR @S00098@
+1 SEX M
+1 BIRT
+2 DATE 26 JUN 1881
+2 PLAC UK, Norfolk, Sidestrand
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00011@
+3 PAGE Sidestrand Parish Church Records
+1 BAPM
+2 DATE 04 JUN 1882
+2 PLAC UK, Norfolk, Sidestrand Parish Church
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00011@
+3 PAGE Sidestrand Parish Church Records
+1 BURI
+2 DATE 1928
+2 PLAC South Africa
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 OCCU Chauffer
+2 DATE AFT 1918
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 06 APR 1891
+2 PLAC UK, Norfolk, Sidestrand, Hungry Hill
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+3 DATA
+4 TEXT Cited as number 4 on the schedule
+1 DEAT
+2 DATE 27 OCT 1928
+2 PLAC South Africa
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 NAME Herman Frederick /Gray/
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 OCCU Scholar
+2 DATE 06 APR 1891
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+1 OCCU Groom (Domestic)
+2 DATE 31 MAR 1901
+2 SOUR @S00047@
+3 PAGE RG13  Pc 73  Fo 150   Pg 33
+1 OCCU Groom
+2 DATE 16 JUN 1907
+2 SOUR @S00098@
+1 OCCU Air Craft Technician, RFC
+2 DATE BET 1914 AND 1918
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00083@
+3 PAGE Ernie
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 31 MAR 1901
+2 PLAC London, Chelsea, Clabon Mews 42
+2 SOUR @S00047@
+3 PAGE RG13  Pc 73  Fo 150   Pg 33
+3 DATA
+4 TEXT Listsed as "Hannan Gray" but I feel sure this is him, age, job etc are
+5 CONC right and Hannan is clearly a miss taken version of Herman.
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 16 JUN 1907
+2 PLAC ? Laut Street 53
+2 SOUR @S00098@
+1 NOTE @H00093@
+1 FAMS @F00119@
+1 FAMC @F00230@
+
+0 @I00474@ INDI
+1 NAME John /Gray/
+2 SOUR @S00137@
+3 PAGE Cert of son John William to Eliz. Hurn
+3 DATA
+4 TEXT Names JW's father as John
+2 SOUR @S00015@
+3 PAGE Cert of John William
+3 DATA
+4 TEXT Gives father of JW as John Gray, Ag Lab
+1 SEX M
+1 BIRT
+2 DATE BEF 02 JUL 1829
+2 PLAC UK Norfolk, Sidestrand
+2 SOUR @S00085@
+3 PAGE Christening
+3 DATA
+4 TEXT Batch No: PO11921 Source No: 1441032 (Records of a Norfolk village..
+5 CONC by Hood, Christobel Mary Hoare, pub. Bedfors, 1914 Time Publishing
+5 CONC Co.) Has a John son of Dennis + Eliz
+1 BAPM
+2 DATE 02 JUL 1829
+2 PLAC Norfolk, Sidestrand
+2 SOUR @S00085@
+3 PAGE Batch No: PO11921 Source No: 1441032
+3 DATA
+4 TEXT (Records of a Norfolk village.. by Hood, Christobel Mary Hoare, pub.
+5 CONC Bedfors, 1914 Time Publishing Co.) Has a John son of Dennis + Eliz
+1 BURI
+2 DATE 23 MAR 1917
+2 PLAC Nfk, Northrepps Parish Church
+2 SOUR @S00113@
+3 PAGE Northrepps Burial Register
+1 OCCU Labourer
+2 DATE 03 NOV 1850
+2 SOUR @S00098@
+2 SOUR @S00098@
+3 PAGE Cert of son John to Lavinia Bloom
+3 DATA
+4 TEXT Gives his occ.
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 03 NOV 1850
+2 PLAC Norfolk, Northrepps
+2 SOUR @S00098@
+1 DEAT
+2 DATE BET 1912 AND 1917
+1 BIRT
+2 DATE ABT 1829
+2 PLAC Norfolk, Northrepps
+2 SOUR @S00036@
+3 PAGE HO107 1809 Folio 253 Page 24
+1 BIRT
+2 DATE ABT 1831
+2 PLAC Norfolk, Sidestrand
+2 SOUR @S00042@
+3 PAGE RG11 1922 Folio 67 Page 28
+1 OCCU Agricultural Labourer
+2 DATE 13 SEP 1857
+2 SOUR @S00015@
+3 PAGE Cert of son John William
+1 OCCU Agricultural Labourer
+2 DATE BET 04 APR 1881 AND 31 MAR 1901
+2 SOUR @S00042@
+3 PAGE RG11 1922 Folio 67 Page 28
+2 SOUR @S00047@
+3 PAGE RG13 1824 27 38
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 31 MAR 1851
+2 PLAC Norfolk, Northrepps, Church Street
+2 SOUR @S00036@
+3 PAGE HO107 1809 Folio 253 Page 24
+3 DATA
+4 TEXT Next door to parents Dennis & Elisabeth
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 03 APR 1871
+2 PLAC Norfolk, Northrepps
+2 SOUR @S00039@
+3 PAGE RG10 1797 F68 P24
+3 DATA
+4 TEXT Cited as "131 Northrepps" in the schedule
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 04 APR 1881
+2 PLAC Norfolk, Northrepps, Hungry Hill 125
+2 SOUR @S00042@
+3 PAGE RG11 1922 Folio 67 Page 28
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 31 MAR 1901
+2 PLAC Norfolk, Northrepps, Hungry Hill
+2 SOUR @S00047@
+3 PAGE RG13 1824 27 38
+1 NOTE @H00209@
+1 FAMS @F00261@
+0 @I01161@ INDI
+1 NAME John William /Gray/
+2 SOUR @S00015@
+3 PAGE Cert of son Herman Frederick
+3 DATA
+4 TEXT Names father as John Gray, Ag Lab
+2 SOUR @S00137@
+3 PAGE Cert to Eliz Hurn
+3 DATA
+4 TEXT Names husbund as John William Gray (1st mention of middle name)
+2 SOUR @S00047@
+3 PAGE RG13 1824 20 23
+3 DATA
+4 TEXT John used
+1 SEX M
+1 BIRT
+2 DATE 13 SEP 1857
+2 PLAC UK, Norfolk, Northrepps
+2 SOUR @S00015@
+1 BAPM
+2 DATE 01 NOV 1857
+2 PLAC Nfk, Northrepps Parish Church
+2 SOUR @S00113@
+3 PAGE Baptisms 1852-1902
+1 BURI
+2 DATE 14 JAN 1928
+2 PLAC UK, Norfolk, Northrepps, Parish Church
+2 SOUR @S00113@
+3 PAGE Northrepps Burial Register
+2 SOUR @S00065@
+1 OCCU Agricultural Labourer
+2 DATE 04 APR 1881
+2 SOUR @S00042@
+3 PAGE RG11 1923 Folio 43 Page 5
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 23 OCT 1880
+2 PLAC Norfolk, Northrepps
+2 SOUR @S00098@
+1 DEAT
+2 DATE 10 JAN 1928
+2 PLAC UK, Norfolk, Northrepps
+2 SOUR @S00103@
+3 PAGE Taken from gravestone
+1 NAME William /Gray/
+2 SOUR @S00098@
+3 PAGE Cert of son Frederick herman to Ruth Maud Elliott
+1 OCCU Labourer
+2 DATE 23 OCT 1880
+2 SOUR @S00098@
+1 OCCU Agricultural Labourer
+2 DATE 26 JUN 1881
+2 SOUR @S00015@
+3 PAGE Cert of son Herman Frederick
+1 OCCU Agricultural Labourer
+2 DATE 03 APR 1891
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+1 OCCU Labourer
+2 DATE 30 JAN 1898
+2 SOUR @S00011@
+3 PAGE Sidestrand Parish Church Records
+3 DATA
+4 TEXT Record for dau. Violet
+1 OCCU Game Keeper
+2 DATE 31 MAR 1901
+2 SOUR @S00047@
+3 PAGE RG13 1824 20 23
+1 OCCU Game Keeper
+2 DATE 16 JUN 1907
+2 SOUR @S00098@
+3 PAGE Cert of son Frederick Herman to Ruth Maude Elliott
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 08 APR 1861
+2 PLAC Norfolk, Northrepps, Church St
+2 SOUR @S00037@
+3 PAGE RG9 1201 Folio 62
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 04 APR 1881
+2 PLAC Norfolk, Sidestrand, Sidestrand Road 20
+2 SOUR @S00042@
+3 PAGE RG11 1923 Folio 43 Page 5
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 26 JUN 1881
+2 PLAC Norfolk, Sidestrand
+2 SOUR @S00015@
+3 PAGE Cert of son Herman Frederick
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 04 JUN 1882
+2 PLAC Norfolk, Sidestrand
+2 SOUR @S00011@
+3 PAGE Sidestrand Parish Church Records
+3 DATA
+4 TEXT Record of son Herman Frederick
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 20 JAN 1889
+2 PLAC Norfolk, Northrepps
+2 SOUR @S00011@
+3 PAGE Sidestrand Parish Church Records
+3 DATA
+4 TEXT Record of Dau. Lillian gives abode as Northrepps
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 06 APR 1891
+2 PLAC Norfolk, Sidestrand, Hungry Hill
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+3 DATA
+4 TEXT Cited as Number 8 on schedule
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 30 JAN 1898
+2 PLAC Norfolk, Northrepps
+2 SOUR @S00011@
+3 PAGE Sidestrand Parish Church Records
+3 DATA
+4 TEXT Record for daughter Violet gives Northrepps as abode
+1 NOTE @H00299@
+1 FAMS @F00230@
+1 FAMC @F00261@
+0 @I00246@ INDI
+1 NAME Living /Gray/
+1 SEX M
+0 @I01215@ INDI
+1 NAME Living /Gray/
+1 SEX M
+0 @I01234@ INDI
+1 NAME Living /Gray/
+1 SEX F
+0 @I00244@ INDI
+1 NAME Robert Frederick /Gray/
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 SEX M
+1 BIRT
+2 DATE 18 NOV 1907
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00065@
+3 PAGE Email from Ernest 28/07/00
+3 DATA
+4 TEXT Date of Import: May 6, 2000
+1 ALIA Fred
+1 ADDR 83 Langley Grove / Sandridge / St Albans, Herts AL4 9DS / UK
+1 PHON 01727 766453
+1 DEAT
+2 DATE 14 MAY 1990
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 NOTE @H00095@
+1 FAMS @F00121@
+1 FAMC @F00119@
+0 @I01326@ INDI
+1 NAME Son /GRAY/
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 SEX M
+1 FAMC @F00550@
+0 @I01330@ INDI
+1 NAME Unknown /Gray/
+1 SEX F
+1 FAMC @F00550@
+0 @I01325@ INDI
+1 NAME Living /Gray/
+1 SEX M
+0 @I00461@ INDI
+1 NAME Living /Gray/
+1 SEX F
+0 @I00571@ INDI
+1 NAME Living /Gray/
+1 SEX M
+0 @I00380@ INDI
+1 NAME Living /Gresty/
+1 SEX M
+0 @I04263@ INDI
+1 NAME Daniel /Haynes/
+1 SEX M
+1 FAMS @F01304@
+0 @I00416@ INDI
+1 NAME Elizabeth /Hurn/
+1 SEX F
+1 BIRT
+2 DATE 26 OCT 1859
+2 PLAC UK, Norfolk, Southrepps
+2 SOUR @S00015@
+3 PAGE 26 Oct 1859
+3 DATA
+4 TEXT Names father as George Hurn and mother as Elizabeth Hurn formerly
+5 CONC Neave.  POB is Southrepps.
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+3 DATA
+4 TEXT Gives age as 32 so est DOB = 1859 and POB as Southrepps
+2 SOUR @S00041@
+3 PAGE RG11 1923 43 5
+3 DATA
+4 TEXT Gives age as 22 so est DOB = 1859 and POB as Southrepps
+1 BURI
+2 DATE 20 JUL 1946
+2 PLAC UK, Norfolk, Northrepps, Parish Church
+2 SOUR @S00113@
+3 PAGE Northrepps Burial Register
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+3 DATA
+4 TEXT Taken from gravestone
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 23 OCT 1880
+2 PLAC UK, Norfolk, Edingthorpe
+2 SOUR @S00098@
+1 DEAT
+2 DATE 18 JUL 1946
+2 PLAC UK, Norfolk, Cromer?
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+3 DATA
+4 TEXT Taken from gravestone
+2 SOUR @S00113@
+3 PAGE Northrepps Burial Register
+3 DATA
+4 TEXT Cited Cromer as residence
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 26 JUN 1881
+2 PLAC UK, Norfolk, Sidestrand
+2 SOUR @S00015@
+3 PAGE Cert of son Herman Frederick
+1 EVEN
+2 TYPE Address (Other)
+2 DATE 06 APR 1891
+2 PLAC Norfolk, Northrepps, Hungry Hill
+2 SOUR @S00045@
+3 PAGE RG12 1510 F59 P7
+3 DATA
+4 TEXT Cited as number 4 on schedule
+1 NOTE @H00180@
+1 FAMS @F00230@
+0 @I01604@ INDI
+1 NAME Alfred /James\Copeman/
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+2 SOUR @S00113@
+3 PAGE Sidestrand Marriage Register
+3 DATA
+4 TEXT Marriage to Joyce Dix 11 Jan 1941
+1 SEX M
+1 BIRT
+2 DATE ABT 1818
+2 PLAC UK, Norfolk, Mundesley
+2 SOUR @S00065@
+3 PAGE From Mary Clark nee Copeman 10-11-01
+2 SOUR @S00113@
+3 PAGE Sidestrand Marriage Register
+3 DATA
+4 TEXT Marriage to Joyce Dix 11 Jan 1941 - gives POB as Mundesley and age as
+5 CONC 23
+1 OCCU Electrician
+2 DATE 11 JAN 1941
+2 SOUR @S00113@
+3 PAGE Sidestrand Marriage Registers
+3 DATA
+4 TEXT Marriage to Joyce Dix 11 Jan 1941
+1 OCCU Electrician
+2 DATE 11 JAN 1948
+2 SOUR @S00113@
+3 PAGE Sidestrand Baptism Register
+3 DATA
+4 TEXT bapt of dau. Mary Copeman
+1 FAMS @F00217@
+0 @I01224@ INDI
+1 NAME Living /Jayne\Biffen/
+1 SEX F
+
+0 @I00381@ INDI
+1 NAME Ruby Letitia /Madell/
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: May 6, 2000
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 SEX F
+1 BIRT
+2 DATE 21 FEB 1921
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 DEAT
+2 DATE 12 APR 1989
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 NOTE @H00156@
+1 FAMS @F00121@
+
+0 @I00274@ INDI
+1 NAME /Pauline\Unknown/
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 SEX F
+1 FAMS @F00140@
+0 @I00231@ INDI
+1 NAME Living /Strange/
+1 SEX F
+0 @I00216@ INDI
+1 NAME Living /Taylor/
+1 SEX M
+0 @I00248@ INDI
+1 NAME Ray /Tullett/
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 SEX M
+1 NAME TULLETT Raymond /(1)/
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: May 6, 2000
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+1 NOTE @H00097@
+1 FAMS @F00124@
+0 @I01378@ INDI
+1 NAME /Unknown/
+2 SOUR @S00083@
+3 PAGE From Nancy McConnell - Warden at Sidestrand church
+3 DATA
+4 TEXT 8-4-2003
+1 SEX M
+1 FAMS @F00561@
+0 @I02927@ INDI
+1 NAME Daughter/ /Unknown/
+2 SOUR @S00083@
+3 PAGE From Nancy McConnell - Warden at Sidestrand church
+3 DATA
+4 TEXT 8-4-2003
+1 SEX F
+1 FAMS @F00555@
+1 FAMC @F00561@
+0 @I00713@ INDI
+1 NAME Son/ /Unknown/
+2 SOUR @S00083@
+3 PAGE From Nancy McConnell - Warden at Sidestrand church
+3 DATA
+4 TEXT 8-4-2003
+1 SEX M
+1 _MDCL Has Downs Syndrome
+2 SOUR @S00083@
+3 PAGE From Nancy McConnell - Warden at Sidestrand church
+3 DATA
+4 TEXT 8-4-2003
+1 FAMC @F00561@
+0 @I01354@ INDI
+1 NAME Unknown / /Unknown/
+2 SOUR @S00083@
+3 PAGE From Nancy McConnell - Warden at Sidestrand church
+3 DATA
+4 TEXT 8-4-2003
+1 SEX M
+1 FAMS @F00555@
+0 @I01600@ INDI
+1 NAME Living /Violet\Dix/
+1 SEX F
+0 @F00349@ FAM
+1 HUSB @I00697@
+1 WIFE @I02956@
+1 CHIL @I00246@
+2 _FREL Unknown
+2 _MREL Step
+1 CHIL @I00461@
+2 _FREL Unknown
+2 _MREL Step
+1 CHIL @I00571@
+2 _FREL Unknown
+2 _MREL Step
+1 MARR
+2 DATE 25 JAN 1941
+2 PLAC London, Paddington, Register Office
+2 SOUR @S00102@
+3 DATA
+4 TEXT Date of Import: 19 Aug 2001
+1 MARR
+2 DATE 25 JAN 1941
+2 PLAC PADDINGTON R.O.
+2 SOUR @S00125@
+3 DATA
+4 TEXT Date of Import: 17 Jul 2002
+2 SOUR @S00129@
+3 DATA
+4 TEXT Date of Import: 18 Jul 2002
+0 @F00627@ FAM
+1 HUSB @I01611@
+1 WIFE @I01600@
+0 @F00629@ FAM
+1 HUSB @I01606@
+1 WIFE @I01605@
+1 CHIL @I01607@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00027@ FAM
+1 HUSB @I00173@
+1 WIFE @I00069@
+1 CHIL @I00407@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I01600@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I01601@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I01602@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I01603@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00131@ FAM
+1 HUSB @I00257@
+1 WIFE @I01609@
+1 CHIL @I01612@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I01613@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00102@ FAM
+1 HUSB @I00222@
+1 WIFE @I00282@
+0 @F00632@ FAM
+1 HUSB @I01613@
+1 WIFE @I01616@
+0 @F00631@ FAM
+1 HUSB @I01612@
+1 WIFE @I01614@
+1 CHIL @I01615@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00628@ FAM
+1 HUSB @I01601@
+1 WIFE @I01608@
+1 CHIL @I01609@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00122@ FAM
+1 HUSB @I00245@
+1 WIFE @I00602@
+0 @F00217@ FAM
+1 HUSB @I01604@
+1 WIFE @I00407@
+1 CHIL @I01605@
+2 _FREL Adopted
+2 _MREL Adopted
+0 @F00561@ FAM
+1 HUSB @I01378@
+1 WIFE @I01603@
+1 CHIL @I02927@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I00713@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00119@ FAM
+1 HUSB @I00242@
+1 WIFE @I00377@
+1 CHIL @I00244@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I00243@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I00697@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 16 JUN 1907
+2 PLAC UK, London, Southwark, St George the Martyre
+0 @F01305@ FAM
+1 HUSB @I00113@
+1 CHIL @I04264@
+2 _FREL Natural
+1 CHIL @I04265@
+2 _FREL Natural
+1 CHIL @I04266@
+2 _FREL Natural
+1 CHIL @I04267@
+2 _FREL Natural
+0 @F00120@ FAM
+1 HUSB @I00380@
+1 WIFE @I00243@
+0 @F00123@ FAM
+1 HUSB @I00245@
+1 WIFE @I01224@
+1 CHIL @I01215@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I01233@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I01234@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I01235@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00261@ FAM
+1 HUSB @I00474@
+1 CHIL @I01161@
+2 _FREL Natural
+1 MARR
+2 DATE 03 NOV 1850
+2 PLAC UK, Norfolk, Southrepps Parish Church
+2 SOUR @S00137@
+3 PAGE Q4 1850 Erpingham Volume VIII Page 301
+3 DATA
+4 TEXT NB. Actual day is unclear
+1 EVEN
+2 TYPE Witnesses
+2 DATE 03 NOV 1850
+2 PLAC John Harmer?, Sarah Wodehouse?
+2 SOUR @S00137@
+0 @F00230@ FAM
+1 HUSB @I01161@
+1 WIFE @I00416@
+1 CHIL @I00242@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I01130@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I00282@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I00070@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I00281@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I00069@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 23 OCT 1880
+2 PLAC UK, Norfolk, Edingthorpe Parish Church
+2 SOUR @S00137@
+1 EVEN
+2 TYPE Witnesses
+2 DATE 23 OCT 1880
+2 PLAC Thomas Cashman, Rhoda Brown
+2 SOUR @S00137@
+0 @F00111@ FAM
+1 HUSB @I00246@
+1 WIFE @I00231@
+1 CHIL @I00001@
+2 _FREL Natural
+2 _MREL Natural
+0 @F01304@ FAM
+1 HUSB @I00001@
+1 WIFE @I04263@
+0 @F00121@ FAM
+1 HUSB @I00244@
+1 WIFE @I00381@
+1 CHIL @I00245@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 06 JUN 1942
+2 PLAC Holy Innocents
+0 @F00550@ FAM
+1 HUSB @I01325@
+1 CHIL @I01326@
+2 _FREL Natural
+1 CHIL @I01330@
+2 _FREL Natural
+0 @F00099@ FAM
+1 HUSB @I00216@
+1 WIFE @I00461@
+0 @F00124@ FAM
+1 HUSB @I00248@
+1 WIFE @I00461@
+1 CHIL @I00113@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00140@ FAM
+1 HUSB @I00571@
+1 WIFE @I00274@
+1 CHIL @I01325@
+2 _FREL Natural
+2 _MREL Natural
+0 @F00555@ FAM
+1 HUSB @I01354@
+1 WIFE @I02927@
+0 @H00093@ NOTE
+1 CONC Used "Frederick" - prob. "Fred"
+1 CONT Boss was Mosenthal a  diamond merchant living in Sloane St. and Fred
+1 CONC was his chauffeur.  He took the wheel and rolled the car - survived,
+1 CONC but Fred was skilled.
+1 CONT He was 48 at death
+1 CONT In April 1881 his parents were at 20 Sidestrand Rd
+1 CONT
+1 CONT In 1901 Census (RG13  Pc 73  Fo 150   Pg 33) he is listed as Hannan
+1 CONC Gray, suggesting he used Herman at that time - perhaps he dropped it
+1 CONC during WW1?  He is living a s a groom with Henry Green (33) the
+1 CONC Coachman and Harry Cresswell, the stable helper (18).
+1 CONT
+1 CONT ----------------------------------------------------------------------
+1 CONC --------
+1 CONT Possible medals found at www.documentsonline.nationalarchives.gov.uk
+1 CONT
+1 CONT Description Medal card of Gray, Herman
+1 CONT Corps Regiment No Rank
+1 CONT Royal Army Service Corps DM2/206722 Private
+1 CONT
+1 CONT Date 1914-1920
+1 CONT Catalogue reference WO 372/8
+1 CONT Dept Records created or inherited by the War Office, Armed Forces,
+1 CONC Judge Advocate General, and related bodies
+1 CONT Series War Office: Service Medal and Award Rolls Index, First World
+1 CONC War
+1 CONT Piece Gibson A - Hannas J M M
+1 CONT
+1 CONT Description Medal card of Gray, Frederick H
+1 CONT Corps Regiment No Rank
+1 CONT Army Service Corps M/336983(Incomplete) Private
+1 CONT
+1 CONT Date 1914-1920
+1 CONT Catalogue reference WO 372/8
+1 CONT Dept Records created or inherited by the War Office, Armed Forces,
+1 CONC Judge Advocate General, and related bodies
+1 CONT Series War Office: Service Medal and Award Rolls Index, First World
+1 CONC War
+1 CONT Piece Gibson A - Hannas J M M
+1 CONT
+0 @H00094@ NOTE
+1 CONC Did not think she was born in Chelsea - lived at 12 Norfolk Place Nr.
+1 CONC Paddington when young.[Mayes 18-8-01.FTW]
+1 CONT
+1 CONT Did not think she was born in Chelsea - lived at 12 Norfolk Place Nr.
+1 CONC Paddington when young.
+0 @H00095@ NOTE
+1 CONC DOB is estimate from Vivinane  as 1909[Mayes 18-8-01.FTW]
+1 CONT
+1 CONT DOB is estimate from Vivinane  as 1909
+0 @H00097@ NOTE
+1 CONC [Mayes 18-8-01.FTW]
+1 CONT
+0 @H00155@ NOTE
+1 CONC Birthday is 23/1 according to Dot Gresty
+1 CONT Died in 1941 while living in Saltrame ? Nr Paddington and age 58? i.e.
+1 CONC YoB would be 1883
+1 CONT But 1891 census (RG12 role 1552 Folio 73 Page 2) has a Ruth age 10
+1 CONC (?born in 1881)  daughter of Robert and Hannah
+1 CONT
+1 CONT In 1901 census she is working for Anny C Cram Roberts a spinster aged
+1 CONC 67 born in Ireland and her nephew Frank William Cram Roberts (18) born
+1 CONC India.  The famaily also employs Ethel Barrell (20) as a parlour Maid
+1 CONC and Lousia Ward (43) as a Cook.  She is now lving a few streets away
+1 CONC from her future husbund - had they already met?  Did they know each
+1 CONC other before they both left Norfolk?
+1 CONT
+0 @H00156@ NOTE
+1 CONC [Mayes 18-8-01.FTW]
+1 CONT
+0 @H00180@ NOTE
+1 CONC Appears to have signed her name own in Wedding cert
+0 @H00209@ NOTE
+1 CONC NB Signs his marriage cert "X"
+1 CONT
+1 CONT 1881 Cenus RG11 1922 Folio 67 Page 28 lists a grand daughter Georgina
+1 CONC at 125 Hungry Hill, aged 9, but gives no indication of who her parents
+1 CONC are.  She is also listed in 1871 with George and Lavinia age 1.  The
+1 CONC Parish records show a Georgina illegit. dau. of Harriet Grey.  Harriet
+1 CONC must be John's daughter born in 1851 who would be 19 for a child born
+1 CONC 1870.
+1 CONT
+1 CONT ________________________________________________________________
+1 CONT Records of a Norfolk Village - Being notes on the History of the
+1 CONC Parish of Sidestrand" by Christobel M Hoare pub. 1914 by The Beds
+1 CONC Times Publishing Company Limited, Bedford.
+1 CONT
+1 CONT Appendix A - "Field Names with a note on Smugglers" mentions (Page
+1 CONC 102) two fields:
+1 CONT Gray's Piece - between Tower Lane and the Cliff [NB this of course,
+1 CONC will probably now be in the sea!)
+1 CONT Gray's Close - now part of the field opposite the hall.
+1 CONT
+1 CONT It then goes on to relate (Pages 103-104):
+1 CONT
+1 CONT "Just into North Repps parish, on a hill over-looking the sea, is
+1 CONC 'Hickleman's Folly,' or 'Hickman's Folly,' famous for a fight between
+1 CONC smugglers and the preventative men.  John Gray tells me that "at that
+1 CONC time o'' day the smugglers used to lie up in the deek and watch for
+1 CONC the boat lying off Beck Hythe (Overstrand).  The women went along too,
+1 CONC and there was a vault in the garden in Church's Loke and another in
+1 CONC the planting on Stone hills." John Gray never went smuggling himself -
+1 CONC "I never got the chance" - but his father and grandfather and
+1 CONC grandmother did, and got well paid for the job, and most of the houses
+1 CONC took in barrels of gin.  "Old Jocka what lived where the Ling's do now
+1 CONC (in North Repps) was one for smuggling.  My poor ole father worked for
+1 CONC him, and one Sunday morning he called him for to take some barrels of
+1 CONC gin away to Roughton.  He had an ole pony that had only three legs,
+1 CONC but that could fly!  As he come out of the gate with the pony and the
+1 CONC gin just against (North Repps) Church he see the riding officer coming
+1 CONC along.  "Hurry up, bor', says ole Jocka to my poor ole father, and
+1 CONC away he went as hard as he could go, and ole Jocka watched him from
+1 CONC the Churchyard.  When he come to Green Lane leading to Roughton Heath,
+1 CONC he see that he were further away from the riding officer than when he
+1 CONC started - and he got clear away on the heath!
+1 CONT "My poor ole grandfather used to tell me of the ole lady that lived in
+1 CONC Pooley's house.  She always had some gin about the place, and the
+1 CONC riding-officer he came to transack the house, but he couldn't
+1 CONC interfear with a woman - and there she squatted (pronounced like at)
+1 CONC on the gin with her skirts drawn down over that, and he never found
+1 CONC that!
+1 CONT "The women were great at smuggling, and would carry the casks slung on
+1 CONC their shoulders just like the men.  They carried two at a time slung
+1 CONC together by a rope."
+1 CONT
+1 CONT Finally, on page 105-106:
+1 CONT
+1 CONT (C) Two Norfolk Songs.
+1 CONT Repeated to me by Mr. John Gray, Senior, aged 83, of Hungry Hill:-
+1 CONT
+1 CONT (1)
+1 CONT "A gentleman there lived in the village of late,
+1 CONT He had an over thresher and his family was great,
+1 CONT He's a wife and seven children and most of them were small,
+1 CONT He'd nothing but his labour for to maintain them all.
+1 CONT
+1 CONT The gentleman he came to his thrasher one day,-
+1 CONT 'Oh, come, my brave fellow, come 'tend to me I pray,
+1 CONT You've a wife and seven children, and most of them are small,
+1 CONT You've nothing but your labour for to maintain them all'?
+1 CONT
+1 CONT 'Sometimes I do reap, and sometimes I do sow,
+1 CONT Hedgin' and ditchin' likewise I do,
+1 CONT Nothing come amiss to me, cart, harrowing or plough,
+1 CONT And so I get my living by the sweat of my brow.
+1 CONT
+1 CONT 'My wife she is willing to join in the work,
+1 CONT We do live happy and comfortable and so we do pervote (sic),
+1 CONT Times are very hard and we are very poor,
+1 CONT But so we keep the landlord and bailiffs from the door.'
+1 CONT
+1 CONT 'Now my good fellow you've spoke well of your wife,
+1 CONT You shall live happy and comfortable for the rest part of your life;
+1 CONT Fifty acre of good land I freely give to thee,
+1 CONT To maintain your wife and your large family.' "
+1 CONT
+1 CONT (2) A song learnt by John Gray from a famous old lady, Mrs. Church, of
+1 CONC North Repps, who used to sing it at 'Harvest Frolics.'
+1 CONT
+1 CONT "Come all young women and maids
+1 CONT That are all in your prime,
+1 CONT Mind how you weed your gardens gay,
+1 CONT Let no one steal your thyme.
+1 CONT
+1 CONT Once I had thyme (time) enough
+1 CONT To last me night and day,
+1 CONT There came to me a false young man
+1 CONT Stole all my thyme away.
+1 CONT
+1 CONT And now my thyme is done,
+1 CONT I cannot plant no new,
+1 CONT There lays the bed where my old thyme grew,
+1 CONT 'Tis all over-run with rue.
+1 CONT
+1 CONT Rue is a running root,
+1 CONT Runs all across amain,
+1 CONT If I could pluck that running root,
+1 CONT I'd plant my old thyme again."
+1 CONT
+1 CONT The song properly finishes here, but John Gray always ends up with the
+1 CONC following verse from another song:-
+1 CONT
+1 CONT "Stand you off, stand you off, jolly oak,
+1 CONT Either wither or die,
+1 CONT I'll be true to my own true love,
+1 CONT As the stars are true to the sky."
+1 CONT
+0 @H00271@ NOTE
+1 CONC * NB We thought it was Edward but Edwin was on the birth certificate.
+1 CONT NB death may have been 1989?[Mayes 18-8-01.FTW]
+1 CONT
+1 CONT * NB We thought it was Edward but Edwin was on the birth certificate.
+1 CONT NB death may have been 1989?
+0 @H00294@ NOTE
+1 CONC Probably known by "Burgess"
+0 @H00299@ NOTE
+1 CONC Living in North Repps at time of marriage 23/10/1880 look up father
+1 CONC there
+1 CONT
+1 CONT DOB is est 1858 from 1881 census
+1 CONT DOB was thought to be 14/1/1858 but this is wrong - it's for a John
+1 CONC Gray but with the wrong parents (Robert father) when John should be
+1 CONC the father according to wedding cert.
+1 CONT
+1 CONT Signs "X" on wedding cert
+0 @H00435@ NOTE
+1 CONC 1st born
+1 CONT poss in Lewisham
+1 CONT Met Eddie when she was 16 - she was a cinema usherette he in merchant
+1 CONC navy
+1 CONT Catherine spelt C in wedding cert K in Christening cert
+1 CONT Godmother J B Parson
+1 CONT Godfather A L E Beardsell
+1 CONT Vicar? at christening J M Barrow
+1 CONT The caption on a pic of her at the age of 2 seems to say16 Kingswood
+1 CONC xxxx - perhaps an address at the time.
+1 CONT
+1 CONT Moved to Crawley in 1953
+0 @S00006@ SOUR
+1 TITL Address Book
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 @S00011@ SOUR
+1 TITL Baptismal  Records
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 @S00015@ SOUR
+1 TITL Birth Certificate
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 @S00036@ SOUR
+1 TITL Census 1851
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 @S00037@ SOUR
+1 TITL Census 1861
+1 NOTE
+2 CONC Source Medium: Census
+2 CONT
+0 @S00039@ SOUR
+1 TITL Census 1871
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 @S00041@ SOUR
+1 TITL Census 1881
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 @S00042@ SOUR
+1 TITL Census 1881
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 @S00045@ SOUR
+1 TITL Census 1891
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 @S00047@ SOUR
+1 TITL Census 1901
+0 @S00065@ SOUR
+1 TITL Email
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 @S00083@ SOUR
+1 TITL Hearsay
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 @S00085@ SOUR
+1 TITL IGI
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 @S00087@ SOUR
+1 TITL Independent Research
+0 @S00098@ SOUR
+1 TITL Marriage Certificate
+0 @S00102@ SOUR
+1 TITL Mayes 18-8-01.FTW
+1 NOTE
+2 CONC Source Medium: Other
+2 CONT
+0 @S00103@ SOUR
+1 TITL Memorial
+0 @S00113@ SOUR
+1 TITL Parish Records
+0 @S00125@ SOUR
+1 TITL Stephen Smith
+1 NOTE
+2 CONC Source Medium: Other
+2 CONT
+0 @S00129@ SOUR
+1 TITL Stephen Smith a
+1 NOTE
+2 CONC Source Medium: Other
+2 CONT
+0 @S00137@ SOUR
+1 TITL Wedding Certificate
+1 NOTE
+2 CONC Source Medium: Book
+2 CONT
+0 TRLR

@@ -1,0 +1,1426 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: TreePress\n"
+"POT-Creation-Date: 2022-09-03 02:33+0600\n"
+"PO-Revision-Date: 2022-09-02 20:52+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: treepress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-treepress-admin.php:114
+msgctxt "Post type general name"
+msgid "Charts"
+msgstr ""
+
+#: admin/class-treepress-admin.php:115
+msgctxt "Post type singular name"
+msgid "Chart"
+msgstr ""
+
+#: admin/class-treepress-admin.php:116
+msgctxt "Admin Menu text"
+msgid "Charts"
+msgstr ""
+
+#: admin/class-treepress-admin.php:117
+msgctxt "Add New on Toolbar"
+msgid "Chart"
+msgstr ""
+
+#: admin/class-treepress-admin.php:118 admin/class-treepress-admin.php:168
+#: admin/class-treepress-admin.php:227
+msgid "Add New"
+msgstr ""
+
+#: admin/class-treepress-admin.php:119
+msgid "Add New Chart"
+msgstr ""
+
+#: admin/class-treepress-admin.php:120
+msgid "New Chart"
+msgstr ""
+
+#: admin/class-treepress-admin.php:121
+msgid "Edit Chart"
+msgstr ""
+
+#: admin/class-treepress-admin.php:122
+msgid "View Chart"
+msgstr ""
+
+#: admin/class-treepress-admin.php:123
+msgid "All Charts"
+msgstr ""
+
+#: admin/class-treepress-admin.php:124
+msgid "Search Charts"
+msgstr ""
+
+#: admin/class-treepress-admin.php:125
+msgid "Parent Charts:"
+msgstr ""
+
+#: admin/class-treepress-admin.php:126
+msgid "No charts found."
+msgstr ""
+
+#: admin/class-treepress-admin.php:127
+msgid "No charts found in Trash."
+msgstr ""
+
+#: admin/class-treepress-admin.php:128
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Chart Cover Image"
+msgstr ""
+
+#: admin/class-treepress-admin.php:129 admin/class-treepress-admin.php:179
+#: admin/class-treepress-admin.php:238
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr ""
+
+#: admin/class-treepress-admin.php:130 admin/class-treepress-admin.php:180
+#: admin/class-treepress-admin.php:239
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr ""
+
+#: admin/class-treepress-admin.php:131 admin/class-treepress-admin.php:181
+#: admin/class-treepress-admin.php:240
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr ""
+
+#: admin/class-treepress-admin.php:132
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Chart archives"
+msgstr ""
+
+#: admin/class-treepress-admin.php:133
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into chart"
+msgstr ""
+
+#: admin/class-treepress-admin.php:134
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this chart"
+msgstr ""
+
+#: admin/class-treepress-admin.php:135
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter charts list"
+msgstr ""
+
+#: admin/class-treepress-admin.php:136
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Charts list navigation"
+msgstr ""
+
+#: admin/class-treepress-admin.php:137
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Charts list"
+msgstr ""
+
+#: admin/class-treepress-admin.php:164
+msgctxt "Post type general name"
+msgid "Members"
+msgstr ""
+
+#: admin/class-treepress-admin.php:165
+msgctxt "Post type singular name"
+msgid "Member"
+msgstr ""
+
+#: admin/class-treepress-admin.php:166
+msgctxt "Admin Menu text"
+msgid "Members"
+msgstr ""
+
+#: admin/class-treepress-admin.php:167
+msgctxt "Add New on Toolbar"
+msgid "Member"
+msgstr ""
+
+#: admin/class-treepress-admin.php:169
+msgid "Add New Member"
+msgstr ""
+
+#: admin/class-treepress-admin.php:170
+msgid "New Member"
+msgstr ""
+
+#: admin/class-treepress-admin.php:171
+msgid "Edit Member"
+msgstr ""
+
+#: admin/class-treepress-admin.php:172
+msgid "View Member"
+msgstr ""
+
+#: admin/class-treepress-admin.php:173
+msgid "All Members"
+msgstr ""
+
+#: admin/class-treepress-admin.php:174
+msgid "Search Members"
+msgstr ""
+
+#: admin/class-treepress-admin.php:175
+msgid "Parent Members:"
+msgstr ""
+
+#: admin/class-treepress-admin.php:176
+msgid "No Members found."
+msgstr ""
+
+#: admin/class-treepress-admin.php:177
+msgid "No Members found in Trash."
+msgstr ""
+
+#: admin/class-treepress-admin.php:178
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Member Cover Image"
+msgstr ""
+
+#: admin/class-treepress-admin.php:182
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Member archives"
+msgstr ""
+
+#: admin/class-treepress-admin.php:183
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into member"
+msgstr ""
+
+#: admin/class-treepress-admin.php:184
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this member"
+msgstr ""
+
+#: admin/class-treepress-admin.php:185
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Members list"
+msgstr ""
+
+#: admin/class-treepress-admin.php:186
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Members list navigation"
+msgstr ""
+
+#: admin/class-treepress-admin.php:187
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Members list"
+msgstr ""
+
+#: admin/class-treepress-admin.php:223
+msgctxt "Post type general name"
+msgid "Families"
+msgstr ""
+
+#: admin/class-treepress-admin.php:224
+msgctxt "Post type singular name"
+msgid "Family"
+msgstr ""
+
+#: admin/class-treepress-admin.php:225
+msgctxt "Admin Menu text"
+msgid "Families"
+msgstr ""
+
+#: admin/class-treepress-admin.php:226
+msgctxt "Add New on Toolbar"
+msgid "Family"
+msgstr ""
+
+#: admin/class-treepress-admin.php:228
+msgid "Add New Family"
+msgstr ""
+
+#: admin/class-treepress-admin.php:229
+msgid "New Family"
+msgstr ""
+
+#: admin/class-treepress-admin.php:230 admin/class-treepress-admin.php:766
+#: admin/class-treepress-admin.php:926
+msgid "Edit Family"
+msgstr ""
+
+#: admin/class-treepress-admin.php:231
+msgid "View Family"
+msgstr ""
+
+#: admin/class-treepress-admin.php:232
+msgid "All Families"
+msgstr ""
+
+#: admin/class-treepress-admin.php:233
+msgid "Search Families"
+msgstr ""
+
+#: admin/class-treepress-admin.php:234
+msgid "Parent Families:"
+msgstr ""
+
+#: admin/class-treepress-admin.php:235
+msgid "No Families found."
+msgstr ""
+
+#: admin/class-treepress-admin.php:236
+msgid "No Families found in Trash."
+msgstr ""
+
+#: admin/class-treepress-admin.php:237
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Family Cover Image"
+msgstr ""
+
+#: admin/class-treepress-admin.php:241
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Family archives"
+msgstr ""
+
+#: admin/class-treepress-admin.php:242
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into family"
+msgstr ""
+
+#: admin/class-treepress-admin.php:243
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this family"
+msgstr ""
+
+#: admin/class-treepress-admin.php:244
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Families List"
+msgstr ""
+
+#: admin/class-treepress-admin.php:245
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Families List navigation"
+msgstr ""
+
+#: admin/class-treepress-admin.php:246
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Families List"
+msgstr ""
+
+#: admin/class-treepress-admin.php:275
+msgctxt "taxonomy general name"
+msgid "Family Groups"
+msgstr ""
+
+#: admin/class-treepress-admin.php:276
+msgctxt "taxonomy singular name"
+msgid "Family Group"
+msgstr ""
+
+#: admin/class-treepress-admin.php:277
+msgid "Search Family Groups"
+msgstr ""
+
+#: admin/class-treepress-admin.php:278
+msgid "All Family Groups"
+msgstr ""
+
+#: admin/class-treepress-admin.php:279
+msgid "Parent Family Group"
+msgstr ""
+
+#: admin/class-treepress-admin.php:280
+msgid "Parent Family Group:"
+msgstr ""
+
+#: admin/class-treepress-admin.php:281
+msgid "Edit Family Group"
+msgstr ""
+
+#: admin/class-treepress-admin.php:282
+msgid "Update Family Group"
+msgstr ""
+
+#: admin/class-treepress-admin.php:283
+msgid "Add New Family Group"
+msgstr ""
+
+#: admin/class-treepress-admin.php:284
+msgid "New Family Group Name"
+msgstr ""
+
+#: admin/class-treepress-admin.php:285 admin/class-treepress-admin.php:1781
+#: admin/class-treepress-admin.php:2810
+msgid "Family Group"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-treepress-admin.php:310 admin/class-treepress-admin.php:311
+msgid "TreePress"
+msgstr ""
+
+#: admin/class-treepress-admin.php:320 admin/class-treepress-admin.php:321
+msgid "Add Chart"
+msgstr ""
+
+#: admin/class-treepress-admin.php:327 admin/class-treepress-admin.php:328
+msgid "Add Family"
+msgstr ""
+
+#: admin/class-treepress-admin.php:334 admin/class-treepress-admin.php:335
+msgid "Add Member"
+msgstr ""
+
+#: admin/class-treepress-admin.php:342 admin/class-treepress-admin.php:343
+msgid "Family Groups"
+msgstr ""
+
+#: admin/class-treepress-admin.php:349 admin/class-treepress-admin.php:350
+msgid "Options"
+msgstr ""
+
+#: admin/class-treepress-admin.php:358 admin/class-treepress-admin.php:359
+#: admin/partials/treepress-admin-import.php:471
+msgid "Import"
+msgstr ""
+
+#: admin/class-treepress-admin.php:367 admin/class-treepress-admin.php:368
+#: admin/partials/treepress-admin-export.php:42
+msgid "Export"
+msgstr ""
+
+#: admin/class-treepress-admin.php:376 admin/class-treepress-admin.php:377
+#: admin/partials/treepress-admin-account.php:118
+msgid "Account Settings"
+msgstr ""
+
+#: admin/class-treepress-admin.php:441
+msgid "Hide Featured Image?"
+msgstr ""
+
+#: admin/class-treepress-admin.php:450
+msgid "Member info"
+msgstr ""
+
+#: admin/class-treepress-admin.php:466
+msgid "Family info"
+msgstr ""
+
+#: admin/class-treepress-admin.php:480
+msgid "Chart Settings"
+msgstr ""
+
+#: admin/class-treepress-admin.php:512
+msgid "Names"
+msgstr ""
+
+#: admin/class-treepress-admin.php:516 admin/class-treepress-admin.php:1272
+msgid "Id"
+msgstr ""
+
+#: admin/class-treepress-admin.php:524 admin/class-treepress-admin.php:2862
+msgid "Name"
+msgstr ""
+
+#: admin/class-treepress-admin.php:532
+msgid "Name Prefix"
+msgstr ""
+
+#: admin/class-treepress-admin.php:540
+msgid "Given Name"
+msgstr ""
+
+#: admin/class-treepress-admin.php:548
+msgid "Nickname"
+msgstr ""
+
+#: admin/class-treepress-admin.php:556
+msgid "Surname Prefix"
+msgstr ""
+
+#: admin/class-treepress-admin.php:564
+msgid "Surname"
+msgstr ""
+
+#: admin/class-treepress-admin.php:572
+msgid "Name Suffix"
+msgstr ""
+
+#: admin/class-treepress-admin.php:590
+msgid "Gender"
+msgstr ""
+
+#: admin/class-treepress-admin.php:594
+msgid "Select Gender"
+msgstr ""
+
+#: admin/class-treepress-admin.php:598
+msgid "Unknown"
+msgstr ""
+
+#: admin/class-treepress-admin.php:599 admin/class-treepress-admin.php:1934
+msgid "Male"
+msgstr ""
+
+#: admin/class-treepress-admin.php:600 admin/class-treepress-admin.php:1937
+msgid "Female"
+msgstr ""
+
+#: admin/class-treepress-admin.php:601 admin/class-treepress-admin.php:1940
+msgid "Other"
+msgstr ""
+
+#: admin/class-treepress-admin.php:615
+msgid "Birth"
+msgstr ""
+
+#: admin/class-treepress-admin.php:633
+msgid "Birth Date"
+msgstr ""
+
+#: admin/class-treepress-admin.php:650
+msgid "Death"
+msgstr ""
+
+#: admin/class-treepress-admin.php:665
+msgid "Death Date"
+msgstr ""
+
+#: admin/class-treepress-admin.php:686
+msgid "Parents"
+msgstr ""
+
+#: admin/class-treepress-admin.php:687 admin/class-treepress-admin.php:862
+#: admin/class-treepress-admin.php:1019 admin/class-treepress-admin.php:1067
+#: admin/class-treepress-admin.php:1437 admin/class-treepress-admin.php:1502
+msgid "Add"
+msgstr ""
+
+#: admin/class-treepress-admin.php:763 admin/class-treepress-admin.php:923
+msgid "Family"
+msgstr ""
+
+#: admin/class-treepress-admin.php:766 admin/class-treepress-admin.php:926
+#: admin/class-treepress-admin.php:1358
+msgid "Unlink"
+msgstr ""
+
+#: admin/class-treepress-admin.php:771
+msgid "Pedigree"
+msgstr ""
+
+#: admin/class-treepress-admin.php:788 admin/class-treepress-admin.php:2863
+msgid "Father"
+msgstr ""
+
+#: admin/class-treepress-admin.php:794 admin/class-treepress-admin.php:806
+#: admin/class-treepress-admin.php:840 admin/class-treepress-admin.php:937
+#: admin/class-treepress-admin.php:970 admin/class-treepress-admin.php:1363
+msgid "No data."
+msgstr ""
+
+#: admin/class-treepress-admin.php:800 admin/class-treepress-admin.php:2864
+msgid "Mother"
+msgstr ""
+
+#: admin/class-treepress-admin.php:813 admin/class-treepress-admin.php:943
+#: admin/class-treepress-admin.php:1325
+msgid "Childrens"
+msgstr ""
+
+#: admin/class-treepress-admin.php:861
+msgid "Spouses"
+msgstr ""
+
+#: admin/class-treepress-admin.php:931
+msgid "Spouse"
+msgstr ""
+
+#: admin/class-treepress-admin.php:988
+msgid "adoption"
+msgstr ""
+
+#: admin/class-treepress-admin.php:989
+msgid "baptism"
+msgstr ""
+
+#: admin/class-treepress-admin.php:990
+msgid "Bar Mitzvah"
+msgstr ""
+
+#: admin/class-treepress-admin.php:991
+msgid "Bas Mitzvah"
+msgstr ""
+
+#: admin/class-treepress-admin.php:992
+msgid "birth"
+msgstr ""
+
+#: admin/class-treepress-admin.php:993
+msgid "blessing"
+msgstr ""
+
+#: admin/class-treepress-admin.php:994
+msgid "burial"
+msgstr ""
+
+#: admin/class-treepress-admin.php:995 admin/class-treepress-admin.php:1378
+msgid "census"
+msgstr ""
+
+#: admin/class-treepress-admin.php:996
+msgid "christening"
+msgstr ""
+
+#: admin/class-treepress-admin.php:997
+msgid "adult christening"
+msgstr ""
+
+#: admin/class-treepress-admin.php:998
+msgid "confirmation"
+msgstr ""
+
+#: admin/class-treepress-admin.php:999
+msgid "cremation"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1000
+msgid "death"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1001
+msgid "emigration"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1002
+msgid "first communion"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1003
+msgid "graduation"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1004
+msgid "immigration"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1005
+msgid "naturalization"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1006
+msgid "ordination"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1007
+msgid "probate"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1008
+msgid "retirement"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1009
+msgid "will"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1010 admin/class-treepress-admin.php:1387
+msgid "generic event"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1019 admin/class-treepress-admin.php:1437
+msgid "Events"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1030 admin/class-treepress-admin.php:1086
+#: admin/class-treepress-admin.php:1133 admin/class-treepress-admin.php:1177
+#: admin/class-treepress-admin.php:1396 admin/class-treepress-admin.php:1447
+#: admin/class-treepress-admin.php:1484 admin/class-treepress-admin.php:1522
+msgid "Delete"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1035 admin/class-treepress-admin.php:1150
+#: admin/class-treepress-admin.php:1414 admin/class-treepress-admin.php:1452
+#: admin/class-treepress-admin.php:2812 public/class-treepress-public.php:1019
+msgid "Date"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1044 admin/class-treepress-admin.php:1158
+#: admin/class-treepress-admin.php:1422 admin/class-treepress-admin.php:1461
+#: public/class-treepress-public.php:1024
+msgid "Place"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1067 admin/class-treepress-admin.php:1499
+msgid "Notes"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1106
+msgid "Others"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1115
+msgid "Custom link"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1128
+msgid "Add New Life Event"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1138 admin/class-treepress-admin.php:1401
+#: admin/class-treepress-admin.php:2809
+msgid "Type"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1168 admin/class-treepress-admin.php:1475
+msgid "Add New Note"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1203
+msgid "Yes"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1204
+msgid "No"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1239 admin/class-treepress-admin.php:1367
+msgid "Add Children"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1243
+msgid "Children"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1247
+msgid "Select Children"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1280
+msgid "Husband"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1284
+msgid "Select Husband"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1303
+msgid "Wife"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1307
+msgid "Select Wife"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1377
+msgid "annulment"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1379
+msgid "divorce"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1380
+msgid "divorce filed"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1381
+msgid "engagement"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1382
+msgid "marriage bann"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1383
+msgid "marriage contract"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1384
+msgid "marriage license"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1385
+msgid "marriage"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1386
+msgid "marriage settlement"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1391
+msgid "Add Family Event"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1678
+msgid "Privacy"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1681
+msgid "Show Living Dates"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1687
+msgid "Show Spouse"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1693
+msgid "Show Only One Spouse"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1695
+msgid "Requered Checked \"Show Spouse\""
+msgstr ""
+
+#: admin/class-treepress-admin.php:1700
+msgid "Show Gender"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1706
+msgid "Left Align"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1719
+msgid "TreePress Styling"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1723
+msgid "Node Opacity (0.0 to 1.0)"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1729
+msgid "Node Minimum Width (Pixels)"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1735
+msgid "Height of Generations (Pixels)"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1741
+msgid "Chart Type"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1795 admin/class-treepress-admin.php:2811
+msgid "Root Person"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1818
+msgid "Chart Background"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1822
+msgid "Background Color"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1830
+msgid "Background Image"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1834
+msgid "Show featured Image as Background"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1839
+msgid "Background Size"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1843
+msgid "Tile"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1847
+msgid "Stretch to fit "
+msgstr ""
+
+#: admin/class-treepress-admin.php:1852
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1856
+msgid "Repeat "
+msgstr ""
+
+#: admin/class-treepress-admin.php:1870
+msgid "Family Member Box"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1875
+msgid "Show Content in a Box "
+msgstr ""
+
+#: admin/class-treepress-admin.php:1883 admin/class-treepress-admin.php:2095
+msgid "Border Style"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1897 admin/class-treepress-admin.php:2109
+msgid "Border Weight"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1911 admin/class-treepress-admin.php:2123
+msgid "Corner Radius"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1925
+msgid "Gender Specific Elements"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1947
+msgid "Box Color"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1961
+msgid "Border Color"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1979
+msgid "Enable Toolbar"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1987
+msgid "Enable Single Page Link"
+msgstr ""
+
+#: admin/class-treepress-admin.php:1995
+msgid "Enable Tree Nav Link"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2004
+msgid "Padding"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2026
+msgid "Connecting Lines"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2033
+msgid "Connect Boxes with Lines "
+msgstr ""
+
+#: admin/class-treepress-admin.php:2039
+msgid "Line Style"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2053
+msgid "Line Weight"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2067
+msgid "Line Color"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2082
+msgid "Picture"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2089
+msgid "Show Picture in a Box "
+msgstr ""
+
+#: admin/class-treepress-admin.php:2138
+msgid "Margin"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2159
+msgid "Text Options"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2169
+msgid "Name Font"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2179
+msgid "Name Font Size"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2193
+msgid "Name Font Color"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2207
+msgid "Other Text Font"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2217
+msgid "Other Text Font Size"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2231
+msgid "Other Text Font Color"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2250
+msgid "Text to Display"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2255
+msgid "Name Format"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2258
+msgid "Full Name"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2261
+msgid "First Name Only"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2274
+msgid "Date of Birth"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2277
+msgid " Full Date"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2280 admin/class-treepress-admin.php:2291
+msgid "Year Only"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2285
+msgid "Date of Death"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2288
+msgid "Full Date"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2308
+msgid "Wrap Names"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2315
+msgid "Date Birth Prefix"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2322
+msgid "Death Date Prefix"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2813
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2860 admin/class-treepress-admin.php:2952
+msgid "ID"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2861
+msgid "Born"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2983 admin/class-treepress-admin.php:2987
+msgid "Family tree link"
+msgstr ""
+
+#: admin/class-treepress-admin.php:2992 admin/class-treepress-admin.php:2996
+msgid "Family members link"
+msgstr ""
+
+#: admin/class-treepress-admin.php:3075
+msgid "Enter name here"
+msgstr ""
+
+#: admin/class-treepress-admin.php:3103
+msgid ""
+"You are not allowed to create more than one family tree on free version. "
+msgstr ""
+
+#: admin/class-treepress-admin.php:3105
+#: admin/partials/treepress-admin-account.php:148
+msgid "Upgrade Now!"
+msgstr ""
+
+#: admin/class-treepress-admin.php:3391
+msgid "Donate"
+msgstr ""
+
+#: admin/partials/treepress-admin-account.php:121
+msgid "Thank you for using TreePress."
+msgstr ""
+
+#: admin/partials/treepress-admin-account.php:124
+msgid "You can find a comprehensive support guide here."
+msgstr ""
+
+#: admin/partials/treepress-admin-account.php:127
+msgid "Help us Improve TreePress"
+msgstr ""
+
+#: admin/partials/treepress-admin-account.php:131
+msgid ""
+"If you would like to make a small donation to help us further develop the "
+"plugin, please check out our PayPal link here:"
+msgstr ""
+
+#: admin/partials/treepress-admin-account.php:147
+msgid "Awesome Premium Features"
+msgstr ""
+
+#: admin/partials/treepress-admin-export.php:21
+msgid "TreePress Export"
+msgstr ""
+
+#: admin/partials/treepress-admin-export.php:22
+msgid ""
+"This will export a Zip file for download, which contains a Gedcom (.ged) "
+"format (version 5.5) file of your data."
+msgstr ""
+
+#: admin/partials/treepress-admin-export.php:28
+msgid "Select Family:"
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:21
+msgid "You are not authorized to import process."
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:27
+#: admin/partials/treepress-admin-import.php:62
+msgid "Something wrong. Try again."
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:33
+#: admin/partials/treepress-admin-import.php:36
+msgid "Family name required"
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:43
+msgid "File required"
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:51
+msgid "Exists! Try different family name"
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:433
+msgid "TreePress Import"
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:443
+msgid ""
+"Here you can import a Gedcom (.ged) file which is the standard format for "
+"importing and exporting family tree data."
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:446
+msgid "A Note on Dates:"
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:449
+msgid ""
+"Please note that TreePress requires exact dates so if your family tree data "
+"exports with approximate date options (such as 'Before', 'After', 'Between' "
+"etc) these dates will not import.  Dates must contain day, month and year "
+"(although the format does not matter yyyy-mm-dd or dd-mm-yyyy will import).  "
+"You cannot import just a year or month-year."
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:452
+msgid ""
+"If your tree data does contain people without a full birth date, this will "
+"mean you need to use a slightly different shortcode to display a tree - see "
+"the 'Shortcodes' tab in the Options page for a full explanation."
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:458
+msgid "Family Name"
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:464
+msgid "Select file (.ged)"
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:477
+msgid "Imported successfully"
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:486
+msgid "Family Tree"
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:486
+#: admin/partials/treepress-admin-import.php:498
+msgid " View Page"
+msgstr ""
+
+#: admin/partials/treepress-admin-import.php:496
+msgid "Family Members"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:28
+msgid "Options saved."
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:43
+msgid "TreePress Options"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:55
+msgid "Display Your Information"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:58
+msgid "TreePress Options "
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:64
+msgid "Managing Your Tree Display"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:66
+msgid ""
+"TreePress uses shortcodes to display family trees in pages of posts.  There "
+"are two formats.  Which one you use depends on your data and what you want "
+"to achieve:"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:67
+msgid "Shortcode format 1 = "
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:68
+msgid ""
+"If every member of your tree has a full date of birth this shortcode will "
+"display the whole family starting with the oldest member. "
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:69
+msgid "Shortcode format 2 = "
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:70
+msgid ""
+"If you do not have full birth dates for every family member or simply want "
+"to create a tree from a specific person 'root' within a larger family, use "
+"this shortcode.   "
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:71
+msgid "Managing Your Family List Display"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:72
+msgid "To create a list of all family members, use the shortcode format"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:73
+msgid ""
+"You can control which family tree the [tree icon image] icon links to by "
+"adding a page or post link in the individual Family Tree page."
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:74
+msgid "Finding IDs for your Shortcodes"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:75
+msgid ""
+"You can find the family_ID on the Families page - when added, the code "
+"'<span style=\"color:red;\">{family_group_id}</span>' will look something "
+"like '42'.  "
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:76
+msgid "You can find the member ID on the All Members page."
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:82
+msgid "Treepress options  (applicable on svg tree)"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:87
+msgid "Show Credit Link"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:100
+msgid "Credit link"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:103
+msgid ""
+"If you use this plugin then we would be very grateful for some appreciation. "
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:103
+msgid "Appreciation makes us happy."
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:103
+msgid ""
+"If you don't want to link to us from the bottom of the family tree then "
+"please consider these other options"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:104
+msgid " send us an"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:104
+msgid "email"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:104
+msgid "and let us know about your family tree website (that would inspire us),"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:105
+msgid " include a link to"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:105
+msgid ""
+"from some other location of your site (that would help us feed our children)"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:106
+msgid "Give us a good rating at the "
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:106
+msgid "Wordpress Plugin Site"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:112
+msgid "Show powered-by link"
+msgstr ""
+
+#: admin/partials/treepress-admin-options.php:124
+msgid "Save Changes"
+msgstr ""
+
+#: public/class-treepress-public.php:116 public/class-treepress-public.php:1274
+#: public/class-treepress-public.php:1305
+msgid "Root Id is Required."
+msgstr ""
+
+#: public/class-treepress-public.php:445 public/class-treepress-public.php:609
+msgid "View information about"
+msgstr ""
+
+#: public/class-treepress-public.php:452 public/class-treepress-public.php:459
+#: public/class-treepress-public.php:616 public/class-treepress-public.php:623
+msgid "View the family of"
+msgstr ""
+
+#: public/class-treepress-public.php:943 public/class-treepress-public.php:947
+msgid "View tree"
+msgstr ""
+
+#: public/class-treepress-public.php:953
+msgid "Born:"
+msgstr ""
+
+#: public/class-treepress-public.php:958
+msgid "Died:"
+msgstr ""
+
+#: public/class-treepress-public.php:966
+msgid "Father:"
+msgstr ""
+
+#: public/class-treepress-public.php:968
+msgid "Mother:"
+msgstr ""
+
+#: public/class-treepress-public.php:972
+msgid "Siblings:"
+msgstr ""
+
+#: public/class-treepress-public.php:975 public/class-treepress-public.php:998
+msgid "None"
+msgstr ""
+
+#: public/class-treepress-public.php:989
+msgid "Spouse:"
+msgstr ""
+
+#: public/class-treepress-public.php:995
+msgid "Children:"
+msgstr ""
+
+#: public/class-treepress-public.php:1012
+msgid "Member Events"
+msgstr ""
+
+#: public/class-treepress-public.php:1034
+msgid "Member Notes"
+msgstr ""
+
+#: public/class-treepress-public.php:1070
+msgid "Media"
+msgstr ""
+
+#: public/class-treepress-public.php:1207
+msgid "ID Missing"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/treepress"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Black and White Digital Ltd"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.blackandwhitedigital.eu/"
+msgstr ""

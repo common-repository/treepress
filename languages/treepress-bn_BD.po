@@ -1,0 +1,1434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TreePress\n"
+"POT-Creation-Date: 2022-09-03 02:33+0600\n"
+"PO-Revision-Date: 2022-09-03 02:34+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: treepress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-treepress-admin.php:114
+msgctxt "Post type general name"
+msgid "Charts"
+msgstr "লেখচিত্রসমূহ"
+
+#: admin/class-treepress-admin.php:115
+msgctxt "Post type singular name"
+msgid "Chart"
+msgstr "চার্ট"
+
+#: admin/class-treepress-admin.php:116
+msgctxt "Admin Menu text"
+msgid "Charts"
+msgstr "লেখচিত্রসমূহ"
+
+#: admin/class-treepress-admin.php:117
+msgctxt "Add New on Toolbar"
+msgid "Chart"
+msgstr "চার্ট"
+
+#: admin/class-treepress-admin.php:118 admin/class-treepress-admin.php:168
+#: admin/class-treepress-admin.php:227
+msgid "Add New"
+msgstr "নতুন"
+
+#: admin/class-treepress-admin.php:119
+msgid "Add New Chart"
+msgstr "নতুন চার্ট যুক্ত করুন"
+
+#: admin/class-treepress-admin.php:120
+msgid "New Chart"
+msgstr "নতুন চার্ট"
+
+#: admin/class-treepress-admin.php:121
+msgid "Edit Chart"
+msgstr "লেখচিত্র সম্পাদনা করুন"
+
+#: admin/class-treepress-admin.php:122
+msgid "View Chart"
+msgstr "লেখচিত্র প্রদর্শন করুন"
+
+#: admin/class-treepress-admin.php:123
+msgid "All Charts"
+msgstr "সকল চার্ট"
+
+#: admin/class-treepress-admin.php:124
+msgid "Search Charts"
+msgstr "লেখচিত্র অনুসন্ধান করুন"
+
+#: admin/class-treepress-admin.php:125
+msgid "Parent Charts:"
+msgstr "প্যারেন্ট চার্ট:"
+
+#: admin/class-treepress-admin.php:126
+msgid "No charts found."
+msgstr "কোনও লেখচিত্র খুঁজে পাওয়া যায়নি।"
+
+#: admin/class-treepress-admin.php:127
+msgid "No charts found in Trash."
+msgstr "ট্র্যাশে কোনও লেখচিত্র খুঁজে পাওয়া যায়নি।"
+
+#: admin/class-treepress-admin.php:128
+msgctxt "Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Chart Cover Image"
+msgstr "চার্ট কভার চিত্র"
+
+#: admin/class-treepress-admin.php:129 admin/class-treepress-admin.php:179
+#: admin/class-treepress-admin.php:238
+msgctxt "Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr "কভার চিত্র সেট করুন"
+
+#: admin/class-treepress-admin.php:130 admin/class-treepress-admin.php:180
+#: admin/class-treepress-admin.php:239
+msgctxt "Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr "কভার চিত্র অপসারণ করুন"
+
+#: admin/class-treepress-admin.php:131 admin/class-treepress-admin.php:181
+#: admin/class-treepress-admin.php:240
+msgctxt "Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr "কভার চিত্র হিসাবে ব্যবহার করুন"
+
+#: admin/class-treepress-admin.php:132
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. Added in 4.4"
+msgid "Chart archives"
+msgstr "লেখচিত্র আর্কাইভ"
+
+#: admin/class-treepress-admin.php:133
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when inserting media "
+"into a post). Added in 4.4"
+msgid "Insert into chart"
+msgstr "চার্টে সন্নিবেশ করান"
+
+#: admin/class-treepress-admin.php:134
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used when viewing "
+"media attached to a post). Added in 4.4"
+msgid "Uploaded to this chart"
+msgstr "এই চার্টে আপলোড করা হয়েছে"
+
+#: admin/class-treepress-admin.php:135
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing screen. Default "
+"“Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter charts list"
+msgstr "ফিল্টার লেখচিত্রের তালিকা"
+
+#: admin/class-treepress-admin.php:136
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing screen. Default "
+"“Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Charts list navigation"
+msgstr "লেখচিত্রের তালিকা নেভিগেশন"
+
+#: admin/class-treepress-admin.php:137
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing screen. Default "
+"“Posts list”/”Pages list”. Added in 4.4"
+msgid "Charts list"
+msgstr "লেখচিত্রের তালিকা"
+
+#: admin/class-treepress-admin.php:164
+msgctxt "Post type general name"
+msgid "Members"
+msgstr "সদস্য"
+
+#: admin/class-treepress-admin.php:165
+msgctxt "Post type singular name"
+msgid "Member"
+msgstr "সদস্য"
+
+#: admin/class-treepress-admin.php:166
+msgctxt "Admin Menu text"
+msgid "Members"
+msgstr "সদস্য"
+
+#: admin/class-treepress-admin.php:167
+msgctxt "Add New on Toolbar"
+msgid "Member"
+msgstr "সদস্য"
+
+#: admin/class-treepress-admin.php:169
+msgid "Add New Member"
+msgstr "নতুন আরেকটি সদস্য"
+
+#: admin/class-treepress-admin.php:170
+msgid "New Member"
+msgstr "নতুন আরেকটি"
+
+#: admin/class-treepress-admin.php:171
+msgid "Edit Member"
+msgstr "সদস্ পরিবর্তন"
+
+#: admin/class-treepress-admin.php:172
+msgid "View Member"
+msgstr "সদস্য দেখুন"
+
+#: admin/class-treepress-admin.php:173
+msgid "All Members"
+msgstr "সকল সদস্য"
+
+#: admin/class-treepress-admin.php:174
+msgid "Search Members"
+msgstr "সদস্যদের অনুসন্ধান করুন"
+
+#: admin/class-treepress-admin.php:175
+msgid "Parent Members:"
+msgstr "মূল সদস্য:"
+
+#: admin/class-treepress-admin.php:176
+msgid "No Members found."
+msgstr "কোনও সদস্য খুঁজে পাওয়া যায়নি।"
+
+#: admin/class-treepress-admin.php:177
+msgid "No Members found in Trash."
+msgstr "ট্র্যাশে কোনও সদস্য পাওয়া যায়নি।"
+
+#: admin/class-treepress-admin.php:178
+msgctxt "Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Member Cover Image"
+msgstr "সদস্য কভার চিত্র"
+
+#: admin/class-treepress-admin.php:182
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. Added in 4.4"
+msgid "Member archives"
+msgstr "সদস্য আর্কাইভ"
+
+#: admin/class-treepress-admin.php:183
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when inserting media "
+"into a post). Added in 4.4"
+msgid "Insert into member"
+msgstr "সদস্যের মধ্যে সন্নিবেশ করান"
+
+#: admin/class-treepress-admin.php:184
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used when viewing "
+"media attached to a post). Added in 4.4"
+msgid "Uploaded to this member"
+msgstr "এই সদস্যের কাছে আপলোড করা হয়েছে"
+
+#: admin/class-treepress-admin.php:185
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing screen. Default "
+"“Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Members list"
+msgstr "ফিল্টার সদস্যদের তালিকা"
+
+#: admin/class-treepress-admin.php:186
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing screen. Default "
+"“Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Members list navigation"
+msgstr "সদস্যদের তালিকা নেভিগেশন"
+
+#: admin/class-treepress-admin.php:187
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing screen. Default "
+"“Posts list”/”Pages list”. Added in 4.4"
+msgid "Members list"
+msgstr "সদস্যদের তালিকা"
+
+#: admin/class-treepress-admin.php:223
+msgctxt "Post type general name"
+msgid "Families"
+msgstr "পরিবার"
+
+#: admin/class-treepress-admin.php:224
+msgctxt "Post type singular name"
+msgid "Family"
+msgstr "পরিবার"
+
+#: admin/class-treepress-admin.php:225
+msgctxt "Admin Menu text"
+msgid "Families"
+msgstr "পরিবার"
+
+#: admin/class-treepress-admin.php:226
+msgctxt "Add New on Toolbar"
+msgid "Family"
+msgstr "পরিবার"
+
+#: admin/class-treepress-admin.php:228
+msgid "Add New Family"
+msgstr "নতুন পরিবার যোগ করুন"
+
+#: admin/class-treepress-admin.php:229
+msgid "New Family"
+msgstr "নতুন পরিবার"
+
+#: admin/class-treepress-admin.php:230 admin/class-treepress-admin.php:766
+#: admin/class-treepress-admin.php:926
+msgid "Edit Family"
+msgstr "পরিবার সম্পাদনা করুন"
+
+#: admin/class-treepress-admin.php:231
+msgid "View Family"
+msgstr "পরিবার দেখুন"
+
+#: admin/class-treepress-admin.php:232
+msgid "All Families"
+msgstr "সকল পরিবার"
+
+#: admin/class-treepress-admin.php:233
+msgid "Search Families"
+msgstr "পরিবার অনুসন্ধান করুন"
+
+#: admin/class-treepress-admin.php:234
+msgid "Parent Families:"
+msgstr "পিতামাতা পরিবার:"
+
+#: admin/class-treepress-admin.php:235
+msgid "No Families found."
+msgstr "কোনও পরিবার খুঁজে পায়নি।"
+
+#: admin/class-treepress-admin.php:236
+msgid "No Families found in Trash."
+msgstr "ট্র্যাশে কোনও পরিবার পাওয়া যায়নি।"
+
+#: admin/class-treepress-admin.php:237
+msgctxt "Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Family Cover Image"
+msgstr "ফ্যামিলি কভার ইমেজ"
+
+#: admin/class-treepress-admin.php:241
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. Added in 4.4"
+msgid "Family archives"
+msgstr "পারিবারিক আর্কাইভ"
+
+#: admin/class-treepress-admin.php:242
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when inserting media "
+"into a post). Added in 4.4"
+msgid "Insert into family"
+msgstr "পরিবারে সন্নিবেশ করান"
+
+#: admin/class-treepress-admin.php:243
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used when viewing "
+"media attached to a post). Added in 4.4"
+msgid "Uploaded to this family"
+msgstr "এই পরিবারে আপলোড করা হয়েছে"
+
+#: admin/class-treepress-admin.php:244
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing screen. Default "
+"“Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Families List"
+msgstr "ফিল্টার পরিবারের তালিকা"
+
+#: admin/class-treepress-admin.php:245
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing screen. Default "
+"“Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Families List navigation"
+msgstr "পরিবারের তালিকা নেভিগেশন"
+
+#: admin/class-treepress-admin.php:246
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing screen. Default "
+"“Posts list”/”Pages list”. Added in 4.4"
+msgid "Families List"
+msgstr "পরিবারের তালিকা"
+
+#: admin/class-treepress-admin.php:275
+msgctxt "taxonomy general name"
+msgid "Family Groups"
+msgstr "পারিবারিক গ্রুপ"
+
+#: admin/class-treepress-admin.php:276
+msgctxt "taxonomy singular name"
+msgid "Family Group"
+msgstr "পারিবারিক গ্রুপ"
+
+#: admin/class-treepress-admin.php:277
+msgid "Search Family Groups"
+msgstr "পারিবারিক গোষ্ঠীগুলি অনুসন্ধান করুন"
+
+#: admin/class-treepress-admin.php:278
+msgid "All Family Groups"
+msgstr "সকল পারিবারিক গ্রুপ"
+
+#: admin/class-treepress-admin.php:279
+msgid "Parent Family Group"
+msgstr "পিতামাতা পরিবার গ্রুপ"
+
+#: admin/class-treepress-admin.php:280
+msgid "Parent Family Group:"
+msgstr "পিতামাতা পরিবার গ্রুপ"
+
+#: admin/class-treepress-admin.php:281
+msgid "Edit Family Group"
+msgstr "পরিবার গোষ্ঠী সম্পাদনা করুন"
+
+#: admin/class-treepress-admin.php:282
+msgid "Update Family Group"
+msgstr "পরিবার গোষ্ঠী আপডেট করুন"
+
+#: admin/class-treepress-admin.php:283
+msgid "Add New Family Group"
+msgstr "নতুন পারিবারিক গোষ্ঠী যোগ করুন"
+
+#: admin/class-treepress-admin.php:284
+msgid "New Family Group Name"
+msgstr "নতুন পরিবার গোষ্ঠীর নাম"
+
+#: admin/class-treepress-admin.php:285 admin/class-treepress-admin.php:1781
+#: admin/class-treepress-admin.php:2810
+msgid "Family Group"
+msgstr "পারিবারিক গ্রুপ"
+
+#. Plugin Name of the plugin/theme
+#: admin/class-treepress-admin.php:310 admin/class-treepress-admin.php:311
+msgid "TreePress"
+msgstr "TreePress"
+
+#: admin/class-treepress-admin.php:320 admin/class-treepress-admin.php:321
+msgid "Add Chart"
+msgstr "চার্ট যুক্ত করুন"
+
+#: admin/class-treepress-admin.php:327 admin/class-treepress-admin.php:328
+msgid "Add Family"
+msgstr "পরিবার যোগ করুন"
+
+#: admin/class-treepress-admin.php:334 admin/class-treepress-admin.php:335
+msgid "Add Member"
+msgstr "আরেকটি সদস্য"
+
+#: admin/class-treepress-admin.php:342 admin/class-treepress-admin.php:343
+msgid "Family Groups"
+msgstr "পারিবারিক গ্রুপ"
+
+#: admin/class-treepress-admin.php:349 admin/class-treepress-admin.php:350
+msgid "Options"
+msgstr "বিকল্পসমূহ"
+
+#: admin/class-treepress-admin.php:358 admin/class-treepress-admin.php:359
+#: admin/partials/treepress-admin-import.php:471
+msgid "Import"
+msgstr "আমদানি"
+
+#: admin/class-treepress-admin.php:367 admin/class-treepress-admin.php:368
+#: admin/partials/treepress-admin-export.php:42
+msgid "Export"
+msgstr "রপ্তানি"
+
+#: admin/class-treepress-admin.php:376 admin/class-treepress-admin.php:377
+#: admin/partials/treepress-admin-account.php:118
+msgid "Account Settings"
+msgstr "অ্যাকাউন্টের সেটিংস"
+
+#: admin/class-treepress-admin.php:441
+msgid "Hide Featured Image?"
+msgstr "বৈশিষ্ট্যযুক্ত ছবি লুকান?"
+
+#: admin/class-treepress-admin.php:450
+msgid "Member info"
+msgstr "সদস্য তথ্য"
+
+#: admin/class-treepress-admin.php:466
+msgid "Family info"
+msgstr "পারিবারিক তথ্য"
+
+#: admin/class-treepress-admin.php:480
+msgid "Chart Settings"
+msgstr "লেখচিত্র সেটিংস"
+
+#: admin/class-treepress-admin.php:512
+msgid "Names"
+msgstr "নাম"
+
+#: admin/class-treepress-admin.php:516 admin/class-treepress-admin.php:1272
+msgid "Id"
+msgstr "পরিচয়"
+
+#: admin/class-treepress-admin.php:524 admin/class-treepress-admin.php:2862
+msgid "Name"
+msgstr "নাম"
+
+#: admin/class-treepress-admin.php:532
+msgid "Name Prefix"
+msgstr "নাম উপসর্গ"
+
+#: admin/class-treepress-admin.php:540
+msgid "Given Name"
+msgstr "প্রদত্ত নাম"
+
+#: admin/class-treepress-admin.php:548
+msgid "Nickname"
+msgstr "ডাকনাম"
+
+#: admin/class-treepress-admin.php:556
+msgid "Surname Prefix"
+msgstr "উপাধি উপসর্গ"
+
+#: admin/class-treepress-admin.php:564
+msgid "Surname"
+msgstr "পদবি"
+
+#: admin/class-treepress-admin.php:572
+msgid "Name Suffix"
+msgstr "নাম প্রত্যয়"
+
+#: admin/class-treepress-admin.php:590
+msgid "Gender"
+msgstr "জেন্ডার"
+
+#: admin/class-treepress-admin.php:594
+msgid "Select Gender"
+msgstr "লিঙ্গ নির্বাচন করুন"
+
+#: admin/class-treepress-admin.php:598
+msgid "Unknown"
+msgstr "অজানা"
+
+#: admin/class-treepress-admin.php:599 admin/class-treepress-admin.php:1934
+msgid "Male"
+msgstr "পুরুষ"
+
+#: admin/class-treepress-admin.php:600 admin/class-treepress-admin.php:1937
+msgid "Female"
+msgstr "মহিলা"
+
+#: admin/class-treepress-admin.php:601 admin/class-treepress-admin.php:1940
+msgid "Other"
+msgstr "অন্যান্য"
+
+#: admin/class-treepress-admin.php:615
+msgid "Birth"
+msgstr "জন্ম"
+
+#: admin/class-treepress-admin.php:633
+msgid "Birth Date"
+msgstr "জন্ম তারিখ"
+
+#: admin/class-treepress-admin.php:650
+msgid "Death"
+msgstr "মৃত্যু"
+
+#: admin/class-treepress-admin.php:665
+msgid "Death Date"
+msgstr "মৃত্যুর তারিখ"
+
+#: admin/class-treepress-admin.php:686
+msgid "Parents"
+msgstr "পিতামাতা"
+
+#: admin/class-treepress-admin.php:687 admin/class-treepress-admin.php:862
+#: admin/class-treepress-admin.php:1019 admin/class-treepress-admin.php:1067
+#: admin/class-treepress-admin.php:1437 admin/class-treepress-admin.php:1502
+msgid "Add"
+msgstr "যোগ করুন"
+
+#: admin/class-treepress-admin.php:763 admin/class-treepress-admin.php:923
+msgid "Family"
+msgstr "পরিবার"
+
+#: admin/class-treepress-admin.php:766 admin/class-treepress-admin.php:926
+#: admin/class-treepress-admin.php:1358
+msgid "Unlink"
+msgstr "লিঙ্কমুক্ত করুন"
+
+#: admin/class-treepress-admin.php:771
+msgid "Pedigree"
+msgstr "বংশানুক্রমিক"
+
+#: admin/class-treepress-admin.php:788 admin/class-treepress-admin.php:2863
+msgid "Father"
+msgstr "বাবা"
+
+#: admin/class-treepress-admin.php:794 admin/class-treepress-admin.php:806
+#: admin/class-treepress-admin.php:840 admin/class-treepress-admin.php:937
+#: admin/class-treepress-admin.php:970 admin/class-treepress-admin.php:1363
+msgid "No data."
+msgstr "কোন ডাটা নেই।"
+
+#: admin/class-treepress-admin.php:800 admin/class-treepress-admin.php:2864
+msgid "Mother"
+msgstr "মা"
+
+#: admin/class-treepress-admin.php:813 admin/class-treepress-admin.php:943
+#: admin/class-treepress-admin.php:1325
+msgid "Childrens"
+msgstr "শিশু"
+
+#: admin/class-treepress-admin.php:861
+msgid "Spouses"
+msgstr "স্বামী/স্ত্রী"
+
+#: admin/class-treepress-admin.php:931
+msgid "Spouse"
+msgstr "স্বামী/স্ত্রী"
+
+#: admin/class-treepress-admin.php:988
+msgid "adoption"
+msgstr "দত্তক গ্রহণ"
+
+#: admin/class-treepress-admin.php:989
+msgid "baptism"
+msgstr "বাপ্তিস্ম"
+
+#: admin/class-treepress-admin.php:990
+msgid "Bar Mitzvah"
+msgstr "BAR_MITZVAH"
+
+#: admin/class-treepress-admin.php:991
+msgid "Bas Mitzvah"
+msgstr "Bas Mitzvah"
+
+#: admin/class-treepress-admin.php:992
+msgid "birth"
+msgstr "জন্ম"
+
+#: admin/class-treepress-admin.php:993
+msgid "blessing"
+msgstr "আশীর্বাদ"
+
+#: admin/class-treepress-admin.php:994
+msgid "burial"
+msgstr "কবর দেওয়া"
+
+#: admin/class-treepress-admin.php:995 admin/class-treepress-admin.php:1378
+msgid "census"
+msgstr "আদমশুমারি"
+
+#: admin/class-treepress-admin.php:996
+msgid "christening"
+msgstr "নামকরণ"
+
+#: admin/class-treepress-admin.php:997
+msgid "adult christening"
+msgstr "প্রাপ্তবয়স্ক ের নামকরণ"
+
+#: admin/class-treepress-admin.php:998
+msgid "confirmation"
+msgstr "নিশ্চিতকরণ"
+
+#: admin/class-treepress-admin.php:999
+msgid "cremation"
+msgstr "শ্মশান"
+
+#: admin/class-treepress-admin.php:1000
+msgid "death"
+msgstr "মৃত্যু"
+
+#: admin/class-treepress-admin.php:1001
+msgid "emigration"
+msgstr "ইমাইগ্রেশন"
+
+#: admin/class-treepress-admin.php:1002
+msgid "first communion"
+msgstr "প্রথম কমিউনিকেশন"
+
+#: admin/class-treepress-admin.php:1003
+msgid "graduation"
+msgstr "স্নাতক"
+
+#: admin/class-treepress-admin.php:1004
+msgid "immigration"
+msgstr "ইমিগ্রেশন"
+
+#: admin/class-treepress-admin.php:1005
+msgid "naturalization"
+msgstr "প্রাকৃতিককরণ"
+
+#: admin/class-treepress-admin.php:1006
+msgid "ordination"
+msgstr "অর্ডিনেশন"
+
+#: admin/class-treepress-admin.php:1007
+msgid "probate"
+msgstr "প্রোবেট"
+
+#: admin/class-treepress-admin.php:1008
+msgid "retirement"
+msgstr "অবসর"
+
+#: admin/class-treepress-admin.php:1009
+msgid "will"
+msgstr "হবে"
+
+#: admin/class-treepress-admin.php:1010 admin/class-treepress-admin.php:1387
+msgid "generic event"
+msgstr "জেনেরিক ইভেন্ট"
+
+#: admin/class-treepress-admin.php:1019 admin/class-treepress-admin.php:1437
+msgid "Events"
+msgstr "আয়োজন"
+
+#: admin/class-treepress-admin.php:1030 admin/class-treepress-admin.php:1086
+#: admin/class-treepress-admin.php:1133 admin/class-treepress-admin.php:1177
+#: admin/class-treepress-admin.php:1396 admin/class-treepress-admin.php:1447
+#: admin/class-treepress-admin.php:1484 admin/class-treepress-admin.php:1522
+msgid "Delete"
+msgstr "মুছে ফেলুন"
+
+#: admin/class-treepress-admin.php:1035 admin/class-treepress-admin.php:1150
+#: admin/class-treepress-admin.php:1414 admin/class-treepress-admin.php:1452
+#: admin/class-treepress-admin.php:2812 public/class-treepress-public.php:1019
+msgid "Date"
+msgstr "তারিখ"
+
+#: admin/class-treepress-admin.php:1044 admin/class-treepress-admin.php:1158
+#: admin/class-treepress-admin.php:1422 admin/class-treepress-admin.php:1461
+#: public/class-treepress-public.php:1024
+msgid "Place"
+msgstr "স্থান"
+
+#: admin/class-treepress-admin.php:1067 admin/class-treepress-admin.php:1499
+msgid "Notes"
+msgstr "নোট"
+
+#: admin/class-treepress-admin.php:1106
+msgid "Others"
+msgstr "অন্যদের"
+
+#: admin/class-treepress-admin.php:1115
+msgid "Custom link"
+msgstr "কাস্টম লিংক"
+
+#: admin/class-treepress-admin.php:1128
+msgid "Add New Life Event"
+msgstr "নতুন জীবন ইভেন্ট যোগ করুন"
+
+#: admin/class-treepress-admin.php:1138 admin/class-treepress-admin.php:1401
+#: admin/class-treepress-admin.php:2809
+msgid "Type"
+msgstr "টাইপ"
+
+#: admin/class-treepress-admin.php:1168 admin/class-treepress-admin.php:1475
+msgid "Add New Note"
+msgstr "নতুন নোট যোগ করুন"
+
+#: admin/class-treepress-admin.php:1203
+msgid "Yes"
+msgstr "হ্যাঁ"
+
+#: admin/class-treepress-admin.php:1204
+msgid "No"
+msgstr "না"
+
+#: admin/class-treepress-admin.php:1239 admin/class-treepress-admin.php:1367
+msgid "Add Children"
+msgstr "শিশুদের যোগ করুন"
+
+#: admin/class-treepress-admin.php:1243
+msgid "Children"
+msgstr "শিশুরা"
+
+#: admin/class-treepress-admin.php:1247
+msgid "Select Children"
+msgstr "শিশুদের নির্বাচন করুন"
+
+#: admin/class-treepress-admin.php:1280
+msgid "Husband"
+msgstr "স্বামী"
+
+#: admin/class-treepress-admin.php:1284
+msgid "Select Husband"
+msgstr "স্বামী নির্বাচন করুন"
+
+#: admin/class-treepress-admin.php:1303
+msgid "Wife"
+msgstr "স্ত্রী"
+
+#: admin/class-treepress-admin.php:1307
+msgid "Select Wife"
+msgstr "স্ত্রী নির্বাচন করুন"
+
+#: admin/class-treepress-admin.php:1377
+msgid "annulment"
+msgstr "বিলোপ"
+
+#: admin/class-treepress-admin.php:1379
+msgid "divorce"
+msgstr "বিবাহবিচ্ছেদ"
+
+#: admin/class-treepress-admin.php:1380
+msgid "divorce filed"
+msgstr "বিবাহবিচ্ছেদ দায়ের"
+
+#: admin/class-treepress-admin.php:1381
+msgid "engagement"
+msgstr "ব্যস্ততা"
+
+#: admin/class-treepress-admin.php:1382
+msgid "marriage bann"
+msgstr "বিবাহ নিষিদ্ধ"
+
+#: admin/class-treepress-admin.php:1383
+msgid "marriage contract"
+msgstr "বিবাহ চুক্তি"
+
+#: admin/class-treepress-admin.php:1384
+msgid "marriage license"
+msgstr "বিবাহ লাইসেন্স"
+
+#: admin/class-treepress-admin.php:1385
+msgid "marriage"
+msgstr "বিবাহ"
+
+#: admin/class-treepress-admin.php:1386
+msgid "marriage settlement"
+msgstr "বিবাহ নিষ্পত্তি"
+
+#: admin/class-treepress-admin.php:1391
+msgid "Add Family Event"
+msgstr "পারিবারিক ঘটনা যোগ করুন"
+
+#: admin/class-treepress-admin.php:1678
+msgid "Privacy"
+msgstr "গোপনীয়তা"
+
+#: admin/class-treepress-admin.php:1681
+msgid "Show Living Dates"
+msgstr "জীবিত তারিখগুলি দেখান"
+
+#: admin/class-treepress-admin.php:1687
+msgid "Show Spouse"
+msgstr "পত্নী দেখান"
+
+#: admin/class-treepress-admin.php:1693
+msgid "Show Only One Spouse"
+msgstr "শুধুমাত্র একজন পত্নী দেখান"
+
+#: admin/class-treepress-admin.php:1695
+msgid "Requered Checked \"Show Spouse\""
+msgstr "Requered চেক করা হয়েছে \"Show Spouse\""
+
+#: admin/class-treepress-admin.php:1700
+msgid "Show Gender"
+msgstr "লিঙ্গ দেখান"
+
+#: admin/class-treepress-admin.php:1706
+msgid "Left Align"
+msgstr "বাম সারিবদ্ধ"
+
+#: admin/class-treepress-admin.php:1719
+msgid "TreePress Styling"
+msgstr "TreePress স্টাইলিং"
+
+#: admin/class-treepress-admin.php:1723
+msgid "Node Opacity (0.0 to 1.0)"
+msgstr "নোড অস্বচ্ছতা (0.0 থেকে 1.0)"
+
+#: admin/class-treepress-admin.php:1729
+msgid "Node Minimum Width (Pixels)"
+msgstr "নোড নূন্যতম প্রস্থ (পিক্সেল)"
+
+#: admin/class-treepress-admin.php:1735
+msgid "Height of Generations (Pixels)"
+msgstr "প্রজন্মের উচ্চতা (পিক্সেল)"
+
+#: admin/class-treepress-admin.php:1741
+msgid "Chart Type"
+msgstr "লেখচিত্রের ধরন"
+
+#: admin/class-treepress-admin.php:1795 admin/class-treepress-admin.php:2811
+msgid "Root Person"
+msgstr "মূল ব্যক্তি"
+
+#: admin/class-treepress-admin.php:1818
+msgid "Chart Background"
+msgstr "লেখচিত্রের পটভূমি"
+
+#: admin/class-treepress-admin.php:1822
+msgid "Background Color"
+msgstr "পটভূমির রঙ"
+
+#: admin/class-treepress-admin.php:1830
+msgid "Background Image"
+msgstr "পটভূমির রঙ"
+
+#: admin/class-treepress-admin.php:1834
+msgid "Show featured Image as Background"
+msgstr "বৈশিষ্ট্যযুক্ত চিত্রটি পটভূমি হিসাবে দেখান"
+
+#: admin/class-treepress-admin.php:1839
+msgid "Background Size"
+msgstr "পটভূমির রঙ"
+
+#: admin/class-treepress-admin.php:1843
+msgid "Tile"
+msgstr "টালি"
+
+#: admin/class-treepress-admin.php:1847
+msgid "Stretch to fit "
+msgstr "ফিট করতে প্রসারিত করুন "
+
+#: admin/class-treepress-admin.php:1852
+msgid "Background Repeat"
+msgstr "পটভূমি পুনরাবৃত্তি"
+
+#: admin/class-treepress-admin.php:1856
+msgid "Repeat "
+msgstr "পুনরাবৃত্তি "
+
+#: admin/class-treepress-admin.php:1870
+msgid "Family Member Box"
+msgstr "পরিবারের সদস্য বাক্স"
+
+#: admin/class-treepress-admin.php:1875
+msgid "Show Content in a Box "
+msgstr "একটি বাক্সে সামগ্রী দেখান "
+
+#: admin/class-treepress-admin.php:1883 admin/class-treepress-admin.php:2095
+msgid "Border Style"
+msgstr "বর্ডার স্টাইল"
+
+#: admin/class-treepress-admin.php:1897 admin/class-treepress-admin.php:2109
+msgid "Border Weight"
+msgstr "সীমানার ওজন"
+
+#: admin/class-treepress-admin.php:1911 admin/class-treepress-admin.php:2123
+msgid "Corner Radius"
+msgstr "লাইন কর্নার ব্যাসার্ধ"
+
+#: admin/class-treepress-admin.php:1925
+msgid "Gender Specific Elements"
+msgstr "লিঙ্গ নির্দিষ্ট উপাদান"
+
+#: admin/class-treepress-admin.php:1947
+msgid "Box Color"
+msgstr "পটভূমির রঙ"
+
+#: admin/class-treepress-admin.php:1961
+msgid "Border Color"
+msgstr "পটভূমির রঙ"
+
+#: admin/class-treepress-admin.php:1979
+msgid "Enable Toolbar"
+msgstr "টুলবার সক্রিয় করুন"
+
+#: admin/class-treepress-admin.php:1987
+msgid "Enable Single Page Link"
+msgstr "একক পৃষ্ঠা লিঙ্ক সক্রিয় করুন"
+
+#: admin/class-treepress-admin.php:1995
+msgid "Enable Tree Nav Link"
+msgstr "Tree Nav লিঙ্ক সক্ষম করুন"
+
+#: admin/class-treepress-admin.php:2004
+msgid "Padding"
+msgstr "প্যাডিং"
+
+#: admin/class-treepress-admin.php:2026
+msgid "Connecting Lines"
+msgstr "সংযোগকারী লাইনসমূহ"
+
+#: admin/class-treepress-admin.php:2033
+msgid "Connect Boxes with Lines "
+msgstr "লাইনগুলির সাথে বাক্সগুলি সংযোগ করুন "
+
+#: admin/class-treepress-admin.php:2039
+msgid "Line Style"
+msgstr "লাইন শৈলী"
+
+#: admin/class-treepress-admin.php:2053
+msgid "Line Weight"
+msgstr "লাইনের ওজন"
+
+#: admin/class-treepress-admin.php:2067
+msgid "Line Color"
+msgstr "লাইন রঙ"
+
+#: admin/class-treepress-admin.php:2082
+msgid "Picture"
+msgstr "চিত্র"
+
+#: admin/class-treepress-admin.php:2089
+msgid "Show Picture in a Box "
+msgstr "একটি বাক্সে ছবি দেখান "
+
+#: admin/class-treepress-admin.php:2138
+msgid "Margin"
+msgstr "মার্জিন"
+
+#: admin/class-treepress-admin.php:2159
+msgid "Text Options"
+msgstr "বিকল্পসমূহ"
+
+#: admin/class-treepress-admin.php:2169
+msgid "Name Font"
+msgstr "নাম"
+
+#: admin/class-treepress-admin.php:2179
+msgid "Name Font Size"
+msgstr "নাম ফন্টের আকার"
+
+#: admin/class-treepress-admin.php:2193
+msgid "Name Font Color"
+msgstr "নাম ফন্টের রঙ"
+
+#: admin/class-treepress-admin.php:2207
+msgid "Other Text Font"
+msgstr "অন্যান্য টেক্সট ফন্ট"
+
+#: admin/class-treepress-admin.php:2217
+msgid "Other Text Font Size"
+msgstr "অন্যান্য টেক্সট ফন্টের আকার"
+
+#: admin/class-treepress-admin.php:2231
+msgid "Other Text Font Color"
+msgstr "অন্যান্য টেক্সট ফন্টের রঙ"
+
+#: admin/class-treepress-admin.php:2250
+msgid "Text to Display"
+msgstr "প্রদর্শনের জন্য টেক্সট"
+
+#: admin/class-treepress-admin.php:2255
+msgid "Name Format"
+msgstr "নাম বিন্যাস"
+
+#: admin/class-treepress-admin.php:2258
+msgid "Full Name"
+msgstr "নাম"
+
+#: admin/class-treepress-admin.php:2261
+msgid "First Name Only"
+msgstr "শুধুমাত্র প্রথম নাম"
+
+#: admin/class-treepress-admin.php:2274
+msgid "Date of Birth"
+msgstr "জন্মতারিখ"
+
+#: admin/class-treepress-admin.php:2277
+msgid " Full Date"
+msgstr " সম্পূর্ণ তারিখ"
+
+#: admin/class-treepress-admin.php:2280 admin/class-treepress-admin.php:2291
+msgid "Year Only"
+msgstr "শুধুমাত্র বছর"
+
+#: admin/class-treepress-admin.php:2285
+msgid "Date of Death"
+msgstr "মৃত্যুর তারিখ"
+
+#: admin/class-treepress-admin.php:2288
+msgid "Full Date"
+msgstr "তারিখ"
+
+#: admin/class-treepress-admin.php:2308
+msgid "Wrap Names"
+msgstr "নাম"
+
+#: admin/class-treepress-admin.php:2315
+msgid "Date Birth Prefix"
+msgstr "নাম উপসর্গ"
+
+#: admin/class-treepress-admin.php:2322
+msgid "Death Date Prefix"
+msgstr "মৃত্যুর তারিখ"
+
+#: admin/class-treepress-admin.php:2813
+msgid "Shortcode"
+msgstr "সর্টকোড"
+
+#: admin/class-treepress-admin.php:2860 admin/class-treepress-admin.php:2952
+msgid "ID"
+msgstr "আইডি"
+
+#: admin/class-treepress-admin.php:2861
+msgid "Born"
+msgstr "জন্ম"
+
+#: admin/class-treepress-admin.php:2983 admin/class-treepress-admin.php:2987
+msgid "Family tree link"
+msgstr "ফ্যামিলি ট্রি লিংক"
+
+#: admin/class-treepress-admin.php:2992 admin/class-treepress-admin.php:2996
+msgid "Family members link"
+msgstr "পরিবারের সদস্যদের লিংক"
+
+#: admin/class-treepress-admin.php:3075
+msgid "Enter name here"
+msgstr "এখানে নাম লিখুন"
+
+#: admin/class-treepress-admin.php:3103
+msgid "You are not allowed to create more than one family tree on free version. "
+msgstr "আপনি বিনামূল্যে সংস্করণে একাধিক পারিবারিক গাছ তৈরি করতে পারবেন না। "
+
+#: admin/class-treepress-admin.php:3105 admin/partials/treepress-admin-account.php:148
+msgid "Upgrade Now!"
+msgstr "এখন আপগ্রেড করুন!"
+
+#: admin/class-treepress-admin.php:3391
+msgid "Donate"
+msgstr "দান করুন"
+
+#: admin/partials/treepress-admin-account.php:121
+msgid "Thank you for using TreePress."
+msgstr "TreePress ব্যবহার করার জন্য আপনাকে ধন্যবাদ।"
+
+#: admin/partials/treepress-admin-account.php:124
+msgid "You can find a comprehensive support guide here."
+msgstr "আপনি এখানে একটি ব্যাপক সমর্থন গাইড খুঁজে পেতে পারেন।"
+
+#: admin/partials/treepress-admin-account.php:127
+msgid "Help us Improve TreePress"
+msgstr "TreePress উন্নত করতে আমাদের সাহায্য করুন"
+
+#: admin/partials/treepress-admin-account.php:131
+msgid ""
+"If you would like to make a small donation to help us further develop the plugin, please "
+"check out our PayPal link here:"
+msgstr ""
+"আপনি যদি প্লাগইনটি আরও উন্নত করতে আমাদের সহায়তা করার জন্য একটি ছোট দান করতে চান তবে দয়া করে "
+"এখানে আমাদের PayPal লিঙ্কটি দেখুন:"
+
+#: admin/partials/treepress-admin-account.php:147
+msgid "Awesome Premium Features"
+msgstr "অসাধারণ প্রিমিয়াম বৈশিষ্ট্য"
+
+#: admin/partials/treepress-admin-export.php:21
+msgid "TreePress Export"
+msgstr "TreePress আমদানি"
+
+#: admin/partials/treepress-admin-export.php:22
+msgid ""
+"This will export a Zip file for download, which contains a Gedcom (.ged) format (version "
+"5.5) file of your data."
+msgstr ""
+"এটি ডাউনলোডের জন্য একটি জিপ ফাইল রপ্তানি করবে, যা আপনার ডেটার একটি গেডকম (.ged) বিন্যাস "
+"(সংস্করণ 5.5) ফাইল ধারণ করে।"
+
+#: admin/partials/treepress-admin-export.php:28
+msgid "Select Family:"
+msgstr "পরিবার নির্বাচন করুন"
+
+#: admin/partials/treepress-admin-import.php:21
+msgid "You are not authorized to import process."
+msgstr "আপনি প্রক্রিয়া আমদানি করার জন্য অনুমোদিত নন।"
+
+#: admin/partials/treepress-admin-import.php:27 admin/partials/treepress-admin-import.php:62
+msgid "Something wrong. Try again."
+msgstr "কিছু ভুল। আবার চেষ্টা করো।"
+
+#: admin/partials/treepress-admin-import.php:33 admin/partials/treepress-admin-import.php:36
+msgid "Family name required"
+msgstr "পরিবারের নাম আবশ্যক"
+
+#: admin/partials/treepress-admin-import.php:43
+msgid "File required"
+msgstr "ফাইল আবশ্যক"
+
+#: admin/partials/treepress-admin-import.php:51
+msgid "Exists! Try different family name"
+msgstr "বিদ্যমান! বিভিন্ন পরিবারের নাম চেষ্টা করুন"
+
+#: admin/partials/treepress-admin-import.php:433
+msgid "TreePress Import"
+msgstr "TreePress আমদানি"
+
+#: admin/partials/treepress-admin-import.php:443
+msgid ""
+"Here you can import a Gedcom (.ged) file which is the standard format for importing and "
+"exporting family tree data."
+msgstr ""
+"এখানে আপনি একটি Gedcom (.ged) ফাইল আমদানি করতে পারেন যা পরিবার গাছের ডেটা আমদানি এবং "
+"রপ্তানীর জন্য আদর্শ বিন্যাস।"
+
+#: admin/partials/treepress-admin-import.php:446
+msgid "A Note on Dates:"
+msgstr "তারিখগুলিতে একটি নোট:"
+
+#: admin/partials/treepress-admin-import.php:449
+msgid ""
+"Please note that TreePress requires exact dates so if your family tree data exports with "
+"approximate date options (such as 'Before', 'After', 'Between' etc) these dates will not "
+"import.  Dates must contain day, month and year (although the format does not matter yyyy-"
+"mm-dd or dd-mm-yyyy will import).  You cannot import just a year or month-year."
+msgstr ""
+"দয়া করে মনে রাখবেন যে TreePress সঠিক তারিখপ্রয়োজন তাই যদি আপনার পরিবার গাছ ডেটা আনুমানিক "
+"তারিখ বিকল্পগুলির সাথে রপ্তানি করে (যেমন 'আগে', 'পরে', 'মধ্যে' ইত্যাদি) এই তারিখগুলি আমদানি "
+"করবে না।  তারিখগুলিতে অবশ্যই দিন, মাস এবং বছর থাকতে হবে (যদিও বিন্যাসটি yyyy-mm-dd বা dd-mm-"
+"yyyyy আমদানি করবে তা কোন ব্যাপার নয়)।  আপনি কেবল এক বছর বা মাস-বছর আমদানি করতে পারবেন না।"
+
+#: admin/partials/treepress-admin-import.php:452
+msgid ""
+"If your tree data does contain people without a full birth date, this will mean you need "
+"to use a slightly different shortcode to display a tree - see the 'Shortcodes' tab in the "
+"Options page for a full explanation."
+msgstr ""
+"যদি আপনার গাছের ডেটাতে পূর্ণ জন্ম তারিখ ছাড়াই লোক থাকে তবে এর অর্থ হল আপনাকে একটি গাছ প্রদর্শন ে"
+"র জন্য কিছুটা ভিন্ন শর্টকোড ব্যবহার করতে হবে - সম্পূর্ণ ব্যাখ্যার জন্য বিকল্প পৃষ্ঠায় 'শর্টকোড' ট্যাবটি "
+"দেখুন।"
+
+#: admin/partials/treepress-admin-import.php:458
+msgid "Family Name"
+msgstr "পরিবারের নাম"
+
+#: admin/partials/treepress-admin-import.php:464
+msgid "Select file (.ged)"
+msgstr "ফাইল নির্বাচন করুন (.ged)"
+
+#: admin/partials/treepress-admin-import.php:477
+msgid "Imported successfully"
+msgstr "সফলভাবে আমদানি করা হয়েছে"
+
+#: admin/partials/treepress-admin-import.php:486
+msgid "Family Tree"
+msgstr "পারিবারিক গাছ"
+
+#: admin/partials/treepress-admin-import.php:486
+#: admin/partials/treepress-admin-import.php:498
+msgid " View Page"
+msgstr "পেজ দেখুন"
+
+#: admin/partials/treepress-admin-import.php:496
+msgid "Family Members"
+msgstr "পরিবারের সদস্যরা"
+
+#: admin/partials/treepress-admin-options.php:28
+msgid "Options saved."
+msgstr "বিকল্পগুলি সংরক্ষিত হয়েছে।"
+
+#: admin/partials/treepress-admin-options.php:43
+msgid "TreePress Options"
+msgstr "TreePress অপশন"
+
+#: admin/partials/treepress-admin-options.php:55
+msgid "Display Your Information"
+msgstr "আপনার তথ্য প্রদর্শন করুন"
+
+#: admin/partials/treepress-admin-options.php:58
+msgid "TreePress Options "
+msgstr "TreePress অপশন "
+
+#: admin/partials/treepress-admin-options.php:64
+msgid "Managing Your Tree Display"
+msgstr "আপনার ট্রি ডিসপ্লে পরিচালনা করা হচ্ছে"
+
+#: admin/partials/treepress-admin-options.php:66
+msgid ""
+"TreePress uses shortcodes to display family trees in pages of posts.  There are two "
+"formats.  Which one you use depends on your data and what you want to achieve:"
+msgstr ""
+"TreePress পোস্টের পৃষ্ঠাগুলিতে পারিবারিক গাছগুলি প্রদর্শন করতে শর্টকোড ব্যবহার করে।  দুটি ফরম্যাট "
+"আছে।  আপনি কোনটি ব্যবহার করেন তা আপনার ডেটা এবং আপনি কী অর্জন করতে চান তার উপর নির্ভর করে:"
+
+#: admin/partials/treepress-admin-options.php:67
+msgid "Shortcode format 1 = "
+msgstr "শর্টকোড ফরম্যাট 1 = "
+
+#: admin/partials/treepress-admin-options.php:68
+msgid ""
+"If every member of your tree has a full date of birth this shortcode will display the "
+"whole family starting with the oldest member. "
+msgstr ""
+"যদি আপনার গাছের প্রতিটি সদস্যের একটি পূর্ণ জন্ম তারিখ থাকে তবে এই শর্টকোডটি বয়স্ক সদস্যের সাথে শুরু "
+"করে পুরো পরিবারকে প্রদর্শন করবে। "
+
+#: admin/partials/treepress-admin-options.php:69
+msgid "Shortcode format 2 = "
+msgstr "শর্টকোড ফরম্যাট 2 = "
+
+#: admin/partials/treepress-admin-options.php:70
+msgid ""
+"If you do not have full birth dates for every family member or simply want to create a "
+"tree from a specific person 'root' within a larger family, use this shortcode.   "
+msgstr ""
+"আপনার যদি পরিবারের প্রতিটি সদস্যের জন্য সম্পূর্ণ জন্ম তারিখ না থাকে বা কেবল একটি বৃহত্তর পরিবারের "
+"মধ্যে একটি নির্দিষ্ট ব্যক্তির 'রুট' থেকে একটি গাছ তৈরি করতে চান তবে এই শর্টকোডটি ব্যবহার করুন।   "
+
+#: admin/partials/treepress-admin-options.php:71
+msgid "Managing Your Family List Display"
+msgstr "আপনার পারিবারিক তালিকা প্রদর্শন পরিচালনা করা হচ্ছে"
+
+#: admin/partials/treepress-admin-options.php:72
+msgid "To create a list of all family members, use the shortcode format"
+msgstr "পরিবারের সকল সদস্যের একটি তালিকা তৈরি করতে, শর্টকোড বিন্যাস ব্যবহার করুন"
+
+#: admin/partials/treepress-admin-options.php:73
+msgid ""
+"You can control which family tree the [tree icon image] icon links to by adding a page or "
+"post link in the individual Family Tree page."
+msgstr ""
+"পৃথক ফ্যামিলি ট্রি পৃষ্ঠায় একটি পৃষ্ঠা বা পোস্ট লিঙ্ক যোগ করে [ট্রি আইকন আইকন চিত্র] আইকনটি লিঙ্ক করে "
+"আপনি কোন পরিবার ট্রিতে লিঙ্ককরেন তা নিয়ন্ত্রণ করতে পারেন।"
+
+#: admin/partials/treepress-admin-options.php:74
+msgid "Finding IDs for your Shortcodes"
+msgstr "আপনার শর্টকোডগুলির জন্য আইডিগুলি সন্ধান করা হচ্ছে"
+
+#: admin/partials/treepress-admin-options.php:75
+msgid ""
+"You can find the family_ID on the Families page - when added, the code '<span style="
+"\"color:red;\">{family_group_id}</span>' will look something like '42'.  "
+msgstr ""
+"আপনি পরিবার পৃষ্ঠায় family_ID খুঁজে পেতে পারেন - যখন যোগ করা হয়, তখন '<span style=\"color:red;"
+"\">{family_group_id}</span>' কোডটি '42' এর মতো দেখতে হবে।  "
+
+#: admin/partials/treepress-admin-options.php:76
+msgid "You can find the member ID on the All Members page."
+msgstr "আপনি সমস্ত সদস্য পৃষ্ঠায় সদস্য আইডি খুঁজে পেতে পারেন।"
+
+#: admin/partials/treepress-admin-options.php:82
+msgid "Treepress options  (applicable on svg tree)"
+msgstr "Treepress অপশন (svg ট্রিতে প্রযোজ্য)"
+
+#: admin/partials/treepress-admin-options.php:87
+msgid "Show Credit Link"
+msgstr "ক্রেডিট লিংক দেখান"
+
+#: admin/partials/treepress-admin-options.php:100
+msgid "Credit link"
+msgstr "ক্রেডিট লিংক"
+
+#: admin/partials/treepress-admin-options.php:103
+msgid "If you use this plugin then we would be very grateful for some appreciation. "
+msgstr "আপনি যদি এই প্লাগইনটি ব্যবহার করেন তবে আমরা কিছু প্রশংসার জন্য খুব কৃতজ্ঞ হব। "
+
+#: admin/partials/treepress-admin-options.php:103
+msgid "Appreciation makes us happy."
+msgstr "প্রশংসা আমাদের সুখী করে তোলে।"
+
+#: admin/partials/treepress-admin-options.php:103
+msgid ""
+"If you don't want to link to us from the bottom of the family tree then please consider "
+"these other options"
+msgstr ""
+"আপনি যদি পারিবারিক গাছের নীচ থেকে আমাদের সাথে লিঙ্ক করতে না চান তবে দয়া করে এই অন্যান্য "
+"বিকল্পগুলি বিবেচনা করুন"
+
+#: admin/partials/treepress-admin-options.php:104
+msgid " send us an"
+msgstr " আমাদের একটি পাঠান"
+
+#: admin/partials/treepress-admin-options.php:104
+msgid "email"
+msgstr "ই-মেইল"
+
+#: admin/partials/treepress-admin-options.php:104
+msgid "and let us know about your family tree website (that would inspire us),"
+msgstr "এবং আপনার পরিবার গাছ ওয়েবসাইট সম্পর্কে আমাদের জানান (যে আমাদের অনুপ্রাণিত করবে),"
+
+#: admin/partials/treepress-admin-options.php:105
+msgid " include a link to"
+msgstr " একটি লিঙ্ক অন্তর্ভুক্ত করুন"
+
+#: admin/partials/treepress-admin-options.php:105
+msgid "from some other location of your site (that would help us feed our children)"
+msgstr "আপনার সাইটের অন্য কোনও অবস্থান থেকে (যা আমাদের বাচ্চাদের খাওয়াতে সহায়তা করবে)"
+
+#: admin/partials/treepress-admin-options.php:106
+msgid "Give us a good rating at the "
+msgstr "আমাদের এ একটি ভাল রেটিং দিন "
+
+#: admin/partials/treepress-admin-options.php:106
+msgid "Wordpress Plugin Site"
+msgstr "ওয়ার্ডপ্রেস প্লাগইন সাইট"
+
+#: admin/partials/treepress-admin-options.php:112
+msgid "Show powered-by link"
+msgstr "চালিত-দ্বারা লিঙ্ক দেখান"
+
+#: admin/partials/treepress-admin-options.php:124
+msgid "Save Changes"
+msgstr "পরিবর্তনগুলি সংরক্ষণ করুন"
+
+#: public/class-treepress-public.php:116 public/class-treepress-public.php:1274
+#: public/class-treepress-public.php:1305
+msgid "Root Id is Required."
+msgstr "Root Id আবশ্যক।"
+
+#: public/class-treepress-public.php:445 public/class-treepress-public.php:609
+msgid "View information about"
+msgstr "সম্পর্কে তথ্য দেখুন"
+
+#: public/class-treepress-public.php:452 public/class-treepress-public.php:459
+#: public/class-treepress-public.php:616 public/class-treepress-public.php:623
+msgid "View the family of"
+msgstr "পরিবারের সদস্যদের দেখুন"
+
+#: public/class-treepress-public.php:943 public/class-treepress-public.php:947
+msgid "View tree"
+msgstr "গাছ দেখুন"
+
+#: public/class-treepress-public.php:953
+msgid "Born:"
+msgstr "জন্ম"
+
+#: public/class-treepress-public.php:958
+msgid "Died:"
+msgstr "মৃত্যু"
+
+#: public/class-treepress-public.php:966
+msgid "Father:"
+msgstr "বাবা"
+
+#: public/class-treepress-public.php:968
+msgid "Mother:"
+msgstr "মা"
+
+#: public/class-treepress-public.php:972
+msgid "Siblings:"
+msgstr "ভাইবোন"
+
+#: public/class-treepress-public.php:975 public/class-treepress-public.php:998
+msgid "None"
+msgstr "কোনটিই নয়"
+
+#: public/class-treepress-public.php:989
+msgid "Spouse:"
+msgstr "স্বামী/স্ত্রী"
+
+#: public/class-treepress-public.php:995
+msgid "Children:"
+msgstr "শিশুরা"
+
+#: public/class-treepress-public.php:1012
+msgid "Member Events"
+msgstr "সদস্য ঘটনাবলী"
+
+#: public/class-treepress-public.php:1034
+msgid "Member Notes"
+msgstr "সদস্য নোটস"
+
+#: public/class-treepress-public.php:1070
+msgid "Media"
+msgstr "মিডিয়া"
+
+#: public/class-treepress-public.php:1207
+#, fuzzy
+msgid "ID Missing"
+msgstr "আইডি হারিয়ে গেছে"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/treepress"
+msgstr "http://wordpress.org/plugins/treepress"
+
+#. Description of the plugin/theme
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the WordPress "
+"admin area."
+msgstr ""
+"এটি প্লাগইনটি কী করে তার একটি সংক্ষিপ্ত বিবরণ। এটি ওয়ার্ডপ্রেস অ্যাডমিন এলাকায় প্রদর্শিত হয়।"
+
+#. Author of the plugin/theme
+msgid "Black and White Digital Ltd"
+msgstr "ব্ল্যাক অ্যান্ড হোয়াইট ডিজিটাল লিমিটেড"
+
+#. Author URI of the plugin/theme
+msgid "https://www.blackandwhitedigital.eu/"
+msgstr "https://www.blackandwhitedigital.eu/"

@@ -1,0 +1,457 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ #familytree {
+	text-align: left;
+	z-index: 10;
+	background: #f3f3f3;
+	border: 0px solid blue;
+}
+
+#familytree svg {
+	max-width: inherit;
+}
+
+#borderBox {
+	position: relative;
+	border: 1px solid grey;
+	width: 100%;
+	height: 630px;
+	overflow: hidden;
+	max-width: 100%;
+}
+
+#dragableElement {
+	text-align: center;
+	position: relative;
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	left: 50%;
+}
+
+div#dragableElement:focus {
+	outline: 0;
+}
+
+#focusperson {
+	height: 2em;
+	padding: 0;
+	width: 40%;
+}
+
+#hoverimage {
+	position: absolute;
+	border: 1px solid gray;
+	background-color: #efefef;
+	z-index: 100;
+}
+
+#tree-container {
+	border: 0px solid green;
+	display: inline-block;
+	text-align: left;
+}
+
+#toolbar-container {
+	position: relative;
+	z-index: 500;
+}
+
+.dynamicDiv {
+	border: solid 1px #c0c0c0;
+	background-color: #e1e1e1;
+	font-size: 8px;
+	font-family: verdana;
+	color: #000;
+	padding: 0px;
+}
+
+
+
+
+
+
+/**
+============================================================================================================================================
+**/
+
+.tree-default > .tree-descendant li {
+	margin-top: 10px;
+	vertical-align: top;
+	display: flex;
+	position: relative;
+}
+
+.tree-default > .tree-descendant .spouse>.childs:before {
+	content: "";
+	position: absolute;
+	top: 10px;
+	left: 35px;
+	right: 50%;
+	height: 10px;
+	border-top: 1px solid;
+	border-left: 1px solid;
+}
+
+.tree-default > .tree-descendant .spouse>.childs>li:before {
+	content: "";
+	position: absolute;
+	right: 0px;
+	left: 0;
+	border-top: 1px solid;
+	height: 10px;
+	top: 0px;;
+}
+
+.tree-default > .tree-descendant .spouse>.childs>li:first-child:not(:only-child):before {
+	content: "";
+	position: absolute;
+	right: 0px;
+	left: 35px;
+	border-top: 1px solid;
+}
+
+.tree-default > .tree-descendant .spouse>.childs>li:last-child:not(:only-child):before {
+	content: "";
+	position: absolute;
+	right: 0px;
+	left: 0;
+	border-top: 1px solid;
+	width: 35px;
+	border-right: 1px solid;
+}
+
+.tree-default > .tree-descendant .spouse>.childs>li:only-child:before {
+	content: "";
+	position: absolute;
+	right: 50%;
+	left: 35px;
+	border-top: 1px solid;
+}
+
+.tree-default > .tree-descendant .spouse>.childs>li:not(:first-child):not(:last-child):not(:only-child)>.person:after {
+	content: "";
+	position: absolute;
+	border-left: 1px solid;
+	left: 20px;
+	height: 10px;
+	top: 0px;
+}
+
+
+
+
+
+/**
+============================================================================================================================================
+**/
+.tree-default > .tree-descendant .person>div>div {
+	border: 1px solid;
+	background: #e3e5e7;
+	display: inline-flex;
+	margin: 0 auto;
+	position: relative;
+}
+
+.tree-default > .tree-descendant .spouse>.person {
+	position: relative;
+}
+
+.tree-default > .tree-descendant .spouse>.person:before {
+	content: "";
+	position: absolute;
+	top: 20px;
+	left: -4px;
+	right: -4px;
+	z-index: -1;
+	border-top: 1px solid;
+	height: 4px;
+	margin-top: -2px;
+	border-bottom: 1px solid;
+}
+
+.tree-default > .tree-descendant .spouse:last-child:not(:only-child)>.person:before {
+	right: 50%;
+}
+
+.tree-default > .tree-descendant .spouse.haschill>.person:after {
+	content: "";
+	position: absolute;
+	bottom: -11px;
+	height: 11px;
+	left: 50%;
+	right: 50%;
+	z-index: -1;
+	border-left: 1px solid;
+}
+
+
+/**
+============================================================================================================================================
+**/
+
+.tree-default.tree-default-left > .tree-descendant ul,
+.tree-default.tree-default-left > .tree-descendant li {
+	text-align: left;
+}
+.tree-default.tree-default-left > .tree-descendant .childs:before {
+	border-top: 0px;
+}
+.tree-default.tree-default-left > .tree-descendant  .childs>li>div.spouse:last-child:not(:only-child)>.person:before {
+	width: 35px;
+}
+.tree-default.tree-default-left > .tree-descendant  .childs>li>div.spouse.haschill>.person:after {
+	border-left: 0px solid;
+	border-right: 1px solid;
+	width: 35px;
+	left: 0;
+}
+.tree-default.tree-default-left > .tree-descendant  .childs>li:only-child:before {
+    right: initial
+}
+
+/**
+============================================================================================================================================
+**/
+
+.tree-default > .tree-descendant.hide-spouse li {
+margin-top: 0;
+}
+.tree-default > .tree-descendant.hide-spouse .childs:after {
+	content: "";
+	position: absolute;
+	height: 10px;
+	border-left: 1px solid;
+	left: 50%;
+	right: 50%;
+	top: 0px;
+}
+
+.tree-default > .tree-descendant.hide-spouse .childs>li {
+	display: block;
+	position: relative;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.tree-default > .tree-descendant.hide-spouse .childs>li:before {
+	content: "";
+	left: 0;
+	right: 0;
+	display: block;
+	border-top: 1px solid;
+	height: 10px;
+	margin-top: 10px;
+	position: absolute;
+	top: 0;
+}
+
+.tree-default > .tree-descendant.hide-spouse .childs>li:last-child:before {
+	left: 0;
+	right: 50%;
+	border-right: 1px solid;
+}
+
+.tree-default > .tree-descendant.hide-spouse .childs>li:first-child:before {
+	left: 50%;
+	right: 0;
+	border-left: 1px solid;
+}
+
+.tree-default > .tree-descendant.hide-spouse .childs>li:only-child:before {
+	left: 50%;
+	right: 50%;
+	border-right: 0px solid;
+}
+
+.tree-default > .tree-descendant.hide-spouse .childs>li:not(:first-child):not(:last-child):after {
+	content: "";
+	position: absolute;
+	height: 10px;
+	border-left: 1px solid;
+	left: 50%;
+	right: 50%;
+	top: 10px;
+}
+
+.tree-default > .tree-descendant.hide-spouse .person {
+	display: block;
+}
+
+
+
+/**
+============================================================================================================================================
+**/
+.tree-default > .tree-pedigree .childs:after {
+	content: "";
+	position: absolute;
+	height: 10px;
+	border-left: 1px solid;
+	left: 50%;
+	right: 50%;
+	top: 0px;
+}
+
+.tree-default > .tree-pedigree .childs>li {
+	display: block;
+	position: relative;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.tree-default > .tree-pedigree .childs>li:before {
+	content: "";
+	left: 0;
+	right: 0;
+	display: block;
+	border-top: 1px solid;
+	height: 10px;
+	margin-top: 10px;
+	position: absolute;
+	top: 0;
+}
+
+.tree-default > .tree-pedigree .childs>li:last-child:not(:only-child):before {
+	left: 0;
+	right: 50%;
+	border-right: 1px solid;
+}
+
+.tree-default > .tree-pedigree .childs>li:first-child:before {
+	left: 50%;
+	right: 0;
+	border-left: 1px solid;
+}
+
+.tree-default > .tree-pedigree .childs>li:only-child:before {
+	left: 50%;
+	right: 50%;
+	border-right: 0px solid;
+}
+
+.tree-default > .tree-pedigree .childs>li:not(:first-child):not(:last-child):after {
+	content: "";
+	position: absolute;
+	height: 10px;
+	border-left: 1px solid;
+	left: 50%;
+	right: 50%;
+	top: 10px;
+}
+
+.tree-default > .tree-pedigree .person {
+	display: block;
+}
+
+/**
+============================================================================================================================================
+**/
+/*
+All type tree
+*/
+.tree-default {
+	white-space: nowrap;
+	position: relative;
+	margin: 0px !important;
+	padding: 0px !important;
+}
+
+.tree-default .childs {
+	width: max-content;
+	display: flex;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	min-width: 100%;
+	justify-content: center;
+}
+
+.tree-default .person {
+	margin-top: 10px;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.tree-default .person>div>div {
+	border: 1px solid;
+	background: #e3e5e7;
+	display: inline-flex;
+	margin: 0 auto;
+	position: relative;
+	z-index: 5000000;
+}
+.tree-default .person table {
+	width: 100%;
+}
+.tree-default .person table,
+.tree-default .person table td {
+	border: 0px;
+	display: inline-flex;
+	vertical-align: top;
+	padding: 0px;
+	margin: 0;
+}
+
+.tree-default .person table td {
+	padding: 3px;
+}
+.tree-default .person table td a {
+	text-decoration: none;
+}
+.tree-default .person .thumb {
+	position: relative;
+	width: 50px;
+	height: 50px;
+	overflow: hidden;
+}
+
+.tree-default .person .thumb img {
+	display: block;
+}
+
+.tree-default .person .thumb>.toolbar {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 20;
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	background:  rgb(255 255 255 / 80%);
+	display: block;
+	text-align: center;
+}
+.tree-default .person .thumb>.toolbar>.toolbar-inner{
+	width: 50px;
+	height: 50px;
+}
+.tree-default .person .thumb > .toolbar a {
+	display: inline-block;
+    margin: 18px 2px;
+    height: 14px;
+}
+
+
+
+.tree-default .person .thumb>.toolbar:hover {
+	opacity: 1;
+}
+
+
+
+.tree-default .chart-type-12up {
+	transform: rotate(180deg);
+	bottom: -20px;
+}
+.tree-default .chart-type-12up  .person-info {
+	transform: rotate(180deg);
+}
